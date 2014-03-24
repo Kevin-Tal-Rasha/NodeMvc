@@ -1,0 +1,144 @@
+﻿code {
+    display: block;
+    padding: .5em;
+    color: #333;
+    background: #f5f5f5;
+}
+
+    code .comment, code .template_comment, code .diff .header, code .javadoc {
+        color: #006400;
+        font-style: italic;
+    }
+
+    code .keyword, code .css .rule .keyword, code .winutils, code .javascript .title, code .nginx .title, code .subst, code .request, code .status {
+        color: #333;
+        font-weight: bold;
+    }
+
+    code .number, code .hexcolor, code .ruby .constant {
+        color: #099;
+    }
+
+    code .string, code .tag .value, code .phpdoc, code .tex .formula {
+        color: #d14;
+    }
+
+    code .title, code .id {
+        color: #900;
+        font-weight: bold;
+    }
+
+    code .javascript .title, code .lisp .title, code .clojure .title, code .subst {
+        font-weight: normal;
+    }
+
+    code .class .title, code .haskell .type, code .vhdl .literal, code .tex .command {
+        color: #458;
+        font-weight: bold;
+    }
+
+    code .tag, code .rules .property, code .django .tag .keyword {
+        color: #000080;
+        font-weight: normal;
+    }
+
+    code .attribute, code .variable, code .lisp .body {
+        color: #008080;
+    }
+
+    code .regexp {
+        color: #009926;
+    }
+
+    code .class {
+        color: #458;
+        font-weight: bold;
+    }
+
+    code .symbol, code .ruby .symbol .string, code .lisp .keyword, code .tex .special, code .prompt {
+        color: #990073;
+    }
+
+    code .built_in, code .lisp .title, code .clojure .built_in {
+        color: #0086b3;
+    }
+
+    code .preprocessor, code .pi, code .doctype, code .shebang, code .cdata {
+        color: #999;
+        font-weight: bold;
+    }
+
+    code .deletion {
+        background: #fdd;
+    }
+
+    code .addition {
+        background: #dfd;
+    }
+
+    code .diff .change {
+        background: #0086b3;
+    }
+
+    code .chunk {
+        color: #aaa;
+    }
+
+.highlight {
+    background: yellow;
+}
+
+.important {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.well h4 {
+    color: black;
+}
+
+h3 {
+    color: black;
+}
+
+.bs-sidebar .nav > .active > a, .bs-sidebar .nav > .active:hover > a, .bs-sidebar .nav > .active:focus > a {
+    font-weight: bold;
+    color: #563d7c;
+    background-color: transparent;
+    border-right: 1px solid #563d7c;
+}
+
+.bs-sidebar .nav > li > a:hover, .bs-sidebar .nav > li > a:focus {
+    text-decoration: none;
+    background-color: #e5e3e9;
+    border-right: 1px solid #dbd8e0;
+}
+
+.bs-sidebar .nav > .active > a, .bs-sidebar .nav > .active:hover > a, .bs-sidebar .nav > .active:focus > a {
+    font-weight: bold;
+    color: #563d7c;
+    background-color: transparent;
+    border-right: 1px solid #563d7c;
+}
+
+.bs-sidebar .nav .nav > li > a {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 30px;
+    font-size: 90%;
+}
+
+.bs-sidebar .nav > li > a {
+    display: block;
+    color: #716b7a;
+    padding: 5px 20px;
+}
+
+.bs-sidebar .nav > .active > ul {
+    display: block;
+}
+
+.bs-sidebar .nav .nav {
+    display: none;
+    margin-bottom: 8px;
+}

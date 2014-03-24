@@ -1,0 +1,15 @@
+﻿<html>
+<head>
+    <title><%= __context.title %></title>
+
+    <link rel="stylesheet" href="/css/bootstrap.css" />
+    <link rel="stylesheet" href="/css/Site.css" />
+    <script type="text/javascript" src="/js/jquery-1.10.2.js"></script>
+    <script type="text/javascript" src="/js/bootstrap.js"></script>
+    <script type="text/javascript" src="/js/jquery-extend.js"></script>
+    <script type="text/javascript" src="/js/bootstrap-extend/bootstrap-dialog.js"></script>
+    <script type="text/javascript">
+        var ctx = eval("(" + "<%= __context.jsonStr %>".replace(/&quot;/g, "'") + ")");
+    </script>
+</head>
+<body>

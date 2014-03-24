@@ -1,0 +1,55 @@
+﻿<% include ../head.html %>
+
+<script type="text/javascript">
+    $(function () {
+        msgBox(ctx.userList[0].Name);
+
+        $.nodeAjax({
+            type: "POST",
+            url: "MyModule/default/ajaxTest",
+            data: { id: 33, name: "三十三" },
+            success: function (data) {
+                $("#ajaxTestDiv").html("<b>session: " + data.session + " id: " + data.id + " name: " + data.name[0].n + "</b>");
+            },
+            errMsg: "ajaxTest fail!"
+        });
+    });
+
+    function saveUser() {
+        $.nodeAjax({
+            url: "saveUser",
+            success: function () {
+                msgBox("user saved!");
+            },
+            errMsg: "save user fail!"
+        });
+    }
+</script>
+
+<b style="background-color:yellow">
+    Hello Node.Js World!
+</b>
+<br />
+    My EJS item shows here: <%= msg %>
+<br />
+<a class="btn btn-primary" onclick="saveUser()">Save</a>
+<div id="ajaxTestDiv"></div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>用户ID</th>
+            <th>用户名称</th>
+        </tr>
+    </thead>
+    <% userList.forEach(function(user){%>
+        <tr>
+            <td><%=user.Id%></td>
+            <td><%=user.Name%></td>
+        </tr>
+    <%})%>
+</table>
+<br />
+<br />
+<a href="/">返回首页</a>
+
+<% include ../foot.html %>
