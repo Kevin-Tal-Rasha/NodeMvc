@@ -19,7 +19,6 @@
     <Compile Include="run.js" />
     <Compile Include="controllers\index.js" />
     <Compile Include="models\User.js" />
-    <Content Include="public\logs\nodejs 2014-03-24.log" />
     <Content Include="static\StaticPage.html" />
     <Content Include="views\foot.html" />
     <Content Include="views\head.html" />
@@ -596,11 +595,9 @@
     <Content Include="node_modules\mysql\node_modules\require-all\test\mydir\sub\config.json" />
     <Compile Include="node_modules\mysql\node_modules\require-all\test\mydir\sub\yes.js" />
     <Content Include="public\css\bootstrap-datetimepicker.css" />
-    <Content Include="public\css\bootstrap-responsive.min.css" />
     <Content Include="public\css\bootstrap-select.css" />
     <Content Include="public\css\bootstrap.css" />
     <Content Include="public\css\bootstrap.min.css" />
-    <Content Include="public\css\custom.css" />
     <Content Include="public\css\github.css" />
     <Content Include="public\css\Site.css" />
     <Content Include="public\errorpages\404.html" />

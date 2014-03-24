@@ -10,12 +10,12 @@ var Mvc = function (a) {
 function createContext(controllerName, req, res, callback) {
     common.callControllerFunc(controllerName, "load", app.ajaxTimeout, { req: req, res: res, app: app }, undefined, function (data) {
         var ctx = {
-            __context: { title: app.pageTitle }
+            ctx: { title: app.pageTitle }
         };
         if (data.value)
-            common.combinJson(ctx, data.value);
+            common.combinJson(ctx.ctx, data.value);
 
-        ctx.__context.jsonStr = JSON.stringify(ctx);
+        ctx.ctx.jsonStr = JSON.stringify(ctx);
         callback(ctx);
     });
 }
