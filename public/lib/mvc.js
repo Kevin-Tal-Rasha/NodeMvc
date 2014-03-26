@@ -1,5 +1,7 @@
 ﻿var url = require("url");
-var fs = require('fs');
+var fs = require("fs");
+var path = require("path");
+var querystring = require("querystring");
 var common = require("./common.js");
 var app;
 
@@ -57,6 +59,7 @@ Mvc.prototype.init = function (startPage) {
         var urlJson = url.parse(req.url);
         var pathname = urlJson.pathname == "/" ? startPage : urlJson.pathname;
         if (pathname.indexOf("/") == 0) pathname = pathname.substr(1);
+        pathname = querystring.unescape(pathname);
 
         if (fs.existsSync(__dirname + "/../../views/" + pathname + ".html")) {
             createContext(pathname, req, res, function (context) {
@@ -85,17 +88,21 @@ Mvc.prototype.init = function (startPage) {
                     }
                 }
             }
+            else if (pathname.indexOf("download") == 0) {
+                isStaticFile = true;
+                var file = __dirname + '../../../static/ERP使用情况调查表.pdf';
+                res.download(path.resolve(file));
+            }
             else {
-                var dirpath = __dirname + "/../../static/" + pathname.substring(0, pathname.lastIndexOf("/"));
-                if (fs.existsSync(dirpath)) {
-                    var files = fs.readdirSync(dirpath);
-                    files.forEach(function (file) {
-                        if (file.indexOf(".") >= 0 && file.toLowerCase() == pathname.substring(pathname.lastIndexOf("/") + 1).toLowerCase()) {
-                            isStaticFile = true;
-                            var filedata = fs.readFileSync(__dirname + "/../../static/" + pathname);
-                            res.send(filedata.toString());
-                        }
-                    });
+                var filepath = __dirname + "/../../static/" + pathname;
+                if (!fs.existsSync(filepath)) {
+                    filepath = __dirname + "/../../views/" + pathname;
+                    if (!fs.existsSync(filepath)) filepath = null;
+                }
+                if (filepath) {
+                    isStaticFile = true;
+                    var filedata = fs.readFileSync(filepath);
+                    res.send(filedata.toString());
                 }
             }
 

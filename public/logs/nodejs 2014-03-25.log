@@ -1,0 +1,1181 @@
+[2014-03-25 09:51:10.698] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 09:51:13.368] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 09:51:13.407] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-25 09:51:13.408] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-25 09:51:13.408] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-25 09:51:13.408] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-25 09:51:13.409] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-25 09:51:13.409] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-25 09:51:13.440] [INFO] system - GET /
+[2014-03-25 09:51:13.685] [INFO] system - GET /ejstest.html.ejs
+[2014-03-25 09:51:13.734] [INFO] system - GET /favicon.ico
+[2014-03-25 09:53:01.223] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 09:53:06.190] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 09:53:06.196] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-25 09:53:06.197] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-25 09:53:06.197] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-25 09:53:06.197] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-25 09:53:06.198] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-25 09:53:06.198] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-25 09:53:06.204] [INFO] system - GET /
+[2014-03-25 09:53:06.423] [INFO] system - GET /ejstest.ejs
+[2014-03-25 09:56:03.740] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 09:56:06.084] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 09:56:06.089] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-25 09:56:06.090] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-25 09:56:06.090] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-25 09:56:06.091] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-25 09:56:06.091] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-25 09:56:06.091] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-25 09:56:06.097] [INFO] system - GET /
+[2014-03-25 09:56:06.302] [INFO] system - GET /ejstest.ejs
+[2014-03-25 09:56:12.657] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 09:56:12.659] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-25 09:56:12.660] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-25 09:56:12.660] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-25 09:56:12.661] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-25 09:56:12.662] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-25 09:56:12.663] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-25 09:56:12.668] [INFO] system - GET /
+[2014-03-25 09:59:40.480] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 09:59:42.080] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 09:59:42.085] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-25 09:59:42.086] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-25 09:59:42.087] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-25 09:59:42.087] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-25 09:59:42.087] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-25 09:59:42.087] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-25 09:59:42.093] [INFO] system - GET /
+[2014-03-25 09:59:59.687] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:00:01.326] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 10:00:01.332] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-25 10:00:01.333] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-25 10:00:01.333] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-25 10:00:01.334] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-25 10:00:01.334] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-25 10:00:01.334] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-25 10:00:01.340] [INFO] system - GET /
+[2014-03-25 10:00:17.993] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:00:19.610] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 10:00:19.616] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-25 10:00:19.617] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-25 10:00:19.617] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-25 10:00:19.618] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-25 10:00:19.618] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-25 10:00:19.618] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-25 10:00:19.624] [INFO] system - GET /
+[2014-03-25 10:00:39.697] [INFO] system - GET /ejstest.ejs
+[2014-03-25 10:01:11.027] [INFO] system - GET /a/a.html
+[2014-03-25 10:01:17.088] [INFO] system - GET /staticpage.html
+[2014-03-25 10:01:19.426] [INFO] system - GET /staticpage
+[2014-03-25 10:01:19.678] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 10:01:21.135] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 10:01:21.137] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-25 10:01:21.138] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-25 10:01:21.139] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-25 10:01:21.141] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-25 10:01:21.142] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-25 10:01:21.143] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-25 10:01:21.151] [INFO] system - GET /
+[2014-03-25 10:01:21.343] [INFO] system - GET /ejstest.ejs
+[2014-03-25 10:06:21.813] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:06:23.644] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 10:06:23.649] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-25 10:06:23.650] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-25 10:06:23.650] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-25 10:06:23.650] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-25 10:06:23.651] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-25 10:06:23.651] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-25 10:06:23.657] [INFO] system - GET /
+[2014-03-25 10:06:23.885] [INFO] system - GET /ejstest.ejs
+[2014-03-25 10:08:18.390] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:08:19.534] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 10:08:19.539] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-25 10:08:19.540] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-25 10:08:19.540] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-25 10:08:19.540] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-25 10:08:19.541] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-25 10:08:19.541] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-25 10:08:36.176] [INFO] system - GET /
+[2014-03-25 10:08:36.362] [INFO] system - GET /ejstest.ejs
+[2014-03-25 10:09:19.722] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 10:09:19.724] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-25 10:09:19.725] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-25 10:09:19.726] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-25 10:09:19.727] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-25 10:09:19.728] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-25 10:09:19.728] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-25 10:09:19.736] [INFO] system - GET /
+[2014-03-25 10:09:19.919] [INFO] system - GET /ejstest.ejs
+[2014-03-25 10:10:30.848] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:10:32.839] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 10:10:32.844] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-25 10:10:32.845] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-25 10:10:32.846] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-25 10:10:32.846] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-25 10:10:32.847] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-25 10:10:32.847] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-25 10:10:32.853] [INFO] system - GET /
+[2014-03-25 10:10:33.051] [INFO] system - GET /ejstest.ejs
+[2014-03-25 10:28:42.349] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:28:57.238] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:28:59.949] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:29:08.638] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:29:09.831] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:29:24.200] [ERROR] module - TypeError: E:\My Project\TPHome\views\index.html:11
+    9| <div class="container">
+    10|     <div class="row">
+ >> 11|         <% ctx.classList.forEach(function(classItem) {%>
+    12|         <div class="col-md-3 list-group">
+    13|             <a href="#" class="list-group-item active">
+    14|                 <%=classItem.Name%>
+
+Cannot call method 'forEach' of undefined
+    at eval (eval at <anonymous> (E:\My Project\TPHome\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:31:257)
+    at eval (eval at <anonymous> (E:\My Project\TPHome\node_modules\ejs\lib\ejs.js:237:14), <anonymous>:33:35)
+    at exports.compile (E:\My Project\TPHome\node_modules\ejs\lib\ejs.js:250:15)
+    at Object.exports.render (E:\My Project\TPHome\node_modules\ejs\lib\ejs.js:288:13)
+    at View.exports.renderFile [as engine] (E:\My Project\TPHome\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (E:\My Project\TPHome\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (E:\My Project\TPHome\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (E:\My Project\TPHome\node_modules\express\lib\response.js:798:7)
+    at renderPage (E:\My Project\TPHome\public\lib\mvc.js:24:9)
+    at Mvc.init.app.use.isStaticFile (E:\My Project\TPHome\public\lib\mvc.js:63:17)
+[2014-03-25 10:29:24.224] [INFO] system - GET /
+[2014-03-25 10:29:24.433] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 10:29:46.698] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:29:48.608] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:30:07.967] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:30:09.402] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:37:08.791] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:37:11.882] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:37:33.959] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:37:43.537] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:37:45.181] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:37:57.708] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:37:58.463] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:38:23.209] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:38:24.785] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:39:01.647] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:39:02.924] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:39:41.717] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:39:42.750] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:41:27.319] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:41:28.758] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:41:48.088] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:41:49.607] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:43:15.168] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:43:18.959] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:43:29.041] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:43:30.299] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:43:46.626] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:43:47.813] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:43:47.821] [INFO] system - GET /
+[2014-03-25 10:43:48.011] [INFO] system - GET /ejstest.ejs
+[2014-03-25 10:54:28.224] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:54:55.402] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:54:55.410] [INFO] system - GET /
+[2014-03-25 10:54:55.609] [INFO] system - GET /ejstest.ejs
+[2014-03-25 10:54:57.510] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:54:57.515] [INFO] system - GET /
+[2014-03-25 10:54:57.717] [INFO] system - GET /ejstest.ejs
+[2014-03-25 10:55:26.644] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 10:55:27.965] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:55:27.973] [INFO] system - GET /
+[2014-03-25 10:55:28.167] [INFO] system - GET /ejstest.ejs
+[2014-03-25 10:55:29.774] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 6
+[2014-03-25 10:55:29.780] [INFO] system - GET /KnowledgeBase/show?id=6
+[2014-03-25 10:55:30.800] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:55:30.806] [INFO] system - GET /
+[2014-03-25 10:55:30.971] [INFO] system - GET /ejstest.ejs
+[2014-03-25 10:55:31.678] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 5
+[2014-03-25 10:55:31.681] [INFO] system - GET /KnowledgeBase/show?id=5
+[2014-03-25 10:55:32.605] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:55:32.609] [INFO] system - GET /
+[2014-03-25 10:55:32.769] [INFO] system - GET /ejstest.ejs
+[2014-03-25 10:55:33.236] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 6
+[2014-03-25 10:55:33.242] [INFO] system - GET /KnowledgeBase/show?id=6
+[2014-03-25 10:55:34.442] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:55:34.447] [INFO] system - GET /
+[2014-03-25 10:55:34.658] [INFO] system - GET /ejstest.ejs
+[2014-03-25 10:59:49.809] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 10:59:49.817] [INFO] system - GET /
+[2014-03-25 10:59:50.668] [INFO] system - GET /ejstest.ejs
+[2014-03-25 11:00:00.839] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 11:00:00.845] [INFO] system - GET /
+[2014-03-25 11:00:05.567] [INFO] system - GET /1
+[2014-03-25 11:00:05.659] [INFO] system - GET /fonts/glyphicons-halflings-regular.eot
+[2014-03-25 11:00:07.609] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 11:00:07.624] [INFO] system - GET /
+[2014-03-25 11:00:09.427] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 11:00:09.437] [INFO] system - GET /
+[2014-03-25 11:00:23.983] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 11:00:23.989] [INFO] system - GET /
+[2014-03-25 11:00:24.203] [INFO] system - GET /ejstest.ejs
+[2014-03-25 11:03:52.333] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 11:03:54.967] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 11:03:54.975] [INFO] system - GET /
+[2014-03-25 11:03:55.196] [INFO] system - GET /ejstest.ejs
+[2014-03-25 11:06:11.902] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 11:06:14.599] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 5
+[2014-03-25 11:06:14.606] [INFO] system - GET /KnowledgeBase/show?id=5
+[2014-03-25 11:06:16.647] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 11:06:16.653] [INFO] system - GET /
+[2014-03-25 11:06:16.788] [INFO] system - GET /ejstest.ejs
+[2014-03-25 11:06:45.949] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 11:06:47.076] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 11:06:47.084] [INFO] system - GET /
+[2014-03-25 11:06:47.256] [INFO] system - GET /ejstest.ejs
+[2014-03-25 11:06:47.820] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 5
+[2014-03-25 11:06:47.825] [INFO] system - GET /KnowledgeBase/show?id=5
+[2014-03-25 11:06:50.528] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 11:06:50.534] [INFO] system - GET /
+[2014-03-25 11:06:50.662] [INFO] system - GET /ejstest.ejs
+[2014-03-25 11:08:07.448] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 11:08:08.969] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 5
+[2014-03-25 11:08:08.976] [INFO] system - GET /KnowledgeBase/show?id=5
+[2014-03-25 11:11:58.677] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 11:12:00.105] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 5
+[2014-03-25 11:12:00.113] [INFO] system - GET /KnowledgeBase/show?id=5
+[2014-03-25 11:12:55.160] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 5
+[2014-03-25 11:12:55.166] [INFO] system - GET /KnowledgeBase/show?id=5
+[2014-03-25 11:15:17.484] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 5
+[2014-03-25 11:15:17.489] [INFO] system - GET /KnowledgeBase/show?id=5
+[2014-03-25 11:17:57.777] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 5
+[2014-03-25 11:17:57.781] [INFO] system - GET /KnowledgeBase/show?id=5
+[2014-03-25 11:18:03.795] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 5
+[2014-03-25 11:18:16.928] [INFO] system - GET /KnowledgeBase/show?id=5
+[2014-03-25 11:18:21.448] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 51
+[2014-03-25 11:18:21.453] [INFO] system - GET /KnowledgeBase/show?id=51
+[2014-03-25 11:18:23.232] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 11:18:23.239] [INFO] system - GET /
+[2014-03-25 11:18:23.420] [INFO] system - GET /ejstest.ejs
+[2014-03-25 11:18:24.558] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 5
+[2014-03-25 11:18:24.563] [INFO] system - GET /KnowledgeBase/show?id=5
+[2014-03-25 11:20:42.818] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 11:20:43.309] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 5
+[2014-03-25 11:23:47.924] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 11:23:49.727] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 5
+[2014-03-25 11:23:49.735] [INFO] system - GET /KnowledgeBase/show?id=5
+[2014-03-25 11:35:43.895] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 11:35:46.701] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 5
+[2014-03-25 11:35:46.709] [ERROR] module - Error: ENOENT, no such file or directory 'E:\My Project\TPHome\views\KnowledgeBase\head.html'
+    at Object.fs.openSync (fs.js:427:18)
+    at fs.readFileSync (fs.js:284:15)
+    at Object.exports.parse (E:\My Project\TPHome\node_modules\ejs\lib\ejs.js:159:19)
+    at exports.compile (E:\My Project\TPHome\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (E:\My Project\TPHome\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (E:\My Project\TPHome\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (E:\My Project\TPHome\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (E:\My Project\TPHome\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (E:\My Project\TPHome\node_modules\express\lib\response.js:798:7)
+    at renderPage (E:\My Project\TPHome\public\lib\mvc.js:24:9)
+[2014-03-25 11:35:46.713] [INFO] system - GET /KnowledgeBase/show?id=5
+[2014-03-25 11:35:46.920] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 11:36:27.283] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 11:36:27.294] [ERROR] module - Error: ENOENT, no such file or directory 'E:\My Project\TPHome\views\head.html'
+    at Object.fs.openSync (fs.js:427:18)
+    at fs.readFileSync (fs.js:284:15)
+    at Object.exports.parse (E:\My Project\TPHome\node_modules\ejs\lib\ejs.js:159:19)
+    at exports.compile (E:\My Project\TPHome\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (E:\My Project\TPHome\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (E:\My Project\TPHome\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (E:\My Project\TPHome\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (E:\My Project\TPHome\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (E:\My Project\TPHome\node_modules\express\lib\response.js:798:7)
+    at renderPage (E:\My Project\TPHome\public\lib\mvc.js:24:9)
+[2014-03-25 11:36:27.301] [INFO] system - GET /
+[2014-03-25 11:36:27.493] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 11:36:28.641] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 11:36:28.646] [ERROR] module - Error: ENOENT, no such file or directory 'E:\My Project\TPHome\views\head.html'
+    at Object.fs.openSync (fs.js:427:18)
+    at fs.readFileSync (fs.js:284:15)
+    at Object.exports.parse (E:\My Project\TPHome\node_modules\ejs\lib\ejs.js:159:19)
+    at exports.compile (E:\My Project\TPHome\node_modules\ejs\lib\ejs.js:224:15)
+    at Object.exports.render (E:\My Project\TPHome\node_modules\ejs\lib\ejs.js:284:10)
+    at View.exports.renderFile [as engine] (E:\My Project\TPHome\node_modules\ejs\lib\ejs.js:318:20)
+    at View.render (E:\My Project\TPHome\node_modules\express\lib\view.js:76:8)
+    at Function.app.render (E:\My Project\TPHome\node_modules\express\lib\application.js:504:10)
+    at ServerResponse.res.render (E:\My Project\TPHome\node_modules\express\lib\response.js:798:7)
+    at renderPage (E:\My Project\TPHome\public\lib\mvc.js:24:9)
+[2014-03-25 11:36:28.653] [INFO] system - GET /
+[2014-03-25 11:36:28.828] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 11:38:51.285] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 11:38:54.683] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 11:38:54.691] [INFO] system - GET /
+[2014-03-25 11:38:55.017] [INFO] system - GET /ejstest.ejs
+[2014-03-25 11:38:56.229] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 6
+[2014-03-25 11:38:56.236] [INFO] system - GET /KnowledgeBase/show?id=6
+[2014-03-25 11:38:57.840] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 11:38:57.845] [INFO] system - GET /
+[2014-03-25 11:38:58.039] [INFO] system - GET /ejstest.ejs
+[2014-03-25 11:41:33.465] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 11:43:20.699] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 11:43:23.355] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 11:43:44.040] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 11:43:45.823] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 11:43:45.830] [INFO] system - GET /
+[2014-03-25 11:43:46.039] [INFO] system - GET /ejstest.ejs
+[2014-03-25 11:46:28.558] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 11:46:28.566] [INFO] system - GET /
+[2014-03-25 11:46:28.790] [INFO] system - GET /ejstest.ejs
+[2014-03-25 11:46:56.211] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 11:46:56.220] [INFO] system - GET /
+[2014-03-25 11:46:56.362] [INFO] system - GET /ejstest.ejs
+[2014-03-25 11:49:32.606] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 11:49:34.125] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 11:49:34.133] [INFO] system - GET /
+[2014-03-25 11:49:34.294] [INFO] system - GET /ejstest.ejs
+[2014-03-25 13:52:31.239] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 13:56:51.549] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 13:56:54.728] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 13:56:55.038] [INFO] system - GET /
+[2014-03-25 13:56:55.233] [INFO] system - GET /ejstest.ejs
+[2014-03-25 13:57:25.776] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 13:57:26.517] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 13:57:26.555] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 13:57:31.405] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 13:57:38.498] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 13:58:00.231] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 13:58:00.235] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 13:59:01.756] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 13:59:01.759] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 13:59:56.037] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 13:59:58.694] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 13:59:58.702] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 13:59:58.855] [ERROR] console - Error: Failed to lookup view "404.html" in views directory "E:\My Project\TPHome\public\lib/../../views,E:\My Project\TPHome\public\lib/../../public/syspages"
+    at Function.app.render (E:\My Project\TPHome\node_modules\express\lib\application.js:493:17)
+    at ServerResponse.res.render (E:\My Project\TPHome\node_modules\express\lib\response.js:798:7)
+    at Mvc.init (E:\My Project\TPHome\public\lib\mvc.js:104:25)
+    at Mvc.init.app.all.type (E:\My Project\TPHome\public\lib\mvc.js:19:9)
+    at Object.exports.callControllerFunc (E:\My Project\TPHome\public\lib\common.js:105:13)
+    at createContext (E:\My Project\TPHome\public\lib\mvc.js:11:12)
+    at Object.Mvc.init [as handle] (E:\My Project\TPHome\public\lib\mvc.js:103:17)
+    at next (E:\My Project\TPHome\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at pass (E:\My Project\TPHome\node_modules\express\lib\router\index.js:110:24)
+    at Router._dispatch (E:\My Project\TPHome\node_modules\express\lib\router\index.js:173:5)
+[2014-03-25 13:59:58.856] [INFO] system - GET /css/j-grid-net.css
+[2014-03-25 13:59:58.872] [ERROR] console - Error: Failed to lookup view "404.html" in views directory "E:\My Project\TPHome\public\lib/../../views,E:\My Project\TPHome\public\lib/../../public/syspages"
+    at Function.app.render (E:\My Project\TPHome\node_modules\express\lib\application.js:493:17)
+    at ServerResponse.res.render (E:\My Project\TPHome\node_modules\express\lib\response.js:798:7)
+    at Mvc.init (E:\My Project\TPHome\public\lib\mvc.js:104:25)
+    at Mvc.init.app.all.type (E:\My Project\TPHome\public\lib\mvc.js:19:9)
+    at Object.exports.callControllerFunc (E:\My Project\TPHome\public\lib\common.js:105:13)
+    at createContext (E:\My Project\TPHome\public\lib\mvc.js:11:12)
+    at Object.Mvc.init [as handle] (E:\My Project\TPHome\public\lib\mvc.js:103:17)
+    at next (E:\My Project\TPHome\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at pass (E:\My Project\TPHome\node_modules\express\lib\router\index.js:110:24)
+    at Router._dispatch (E:\My Project\TPHome\node_modules\express\lib\router\index.js:173:5)
+[2014-03-25 13:59:58.873] [INFO] system - GET /js/j-grid-net.js
+[2014-03-25 14:00:59.018] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 14:01:00.202] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:01:00.229] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:02:08.782] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:02:08.788] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:05:20.937] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 14:05:22.897] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:05:22.904] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:05:23.113] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:05:23.115] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:05:23.160] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:06:22.301] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:06:23.123] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:06:23.338] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:06:26.468] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:06:26.480] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:07:17.266] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:07:17.268] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:07:17.484] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:07:17.485] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:07:17.540] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:07:54.485] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:07:54.489] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:07:54.715] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:07:54.716] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:07:54.766] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:08:51.710] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:08:51.714] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:08:52.002] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:08:52.004] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:08:52.055] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:09:30.076] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:09:30.081] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:09:30.301] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:09:30.302] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:09:30.351] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:09:45.072] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:09:45.076] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:09:45.289] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:09:45.290] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:09:45.344] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:10:20.838] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:10:20.842] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:10:21.049] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:10:21.050] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:10:21.095] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:10:45.839] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:10:45.842] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:10:46.047] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:10:46.048] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:10:46.105] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:11:02.386] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:11:02.389] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:11:02.588] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:11:02.589] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:11:02.640] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:13:32.314] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:13:32.318] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:13:32.674] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:13:32.677] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:13:32.728] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:17:11.085] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 14:17:12.699] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:17:12.905] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:17:13.111] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:17:13.131] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:19:49.469] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:19:49.676] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:19:49.679] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:19:49.681] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:19:49.906] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:19:52.827] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:19:53.047] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:19:53.051] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:19:53.054] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:19:53.573] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:19:54.674] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:19:54.889] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:19:54.895] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:19:54.896] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:19:54.947] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:20:01.717] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:20:01.720] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:20:39.283] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:20:40.274] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:20:40.281] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:20:40.284] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:20:40.525] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:20:48.102] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:20:48.105] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:21:35.420] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 14:21:36.888] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:21:37.086] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:21:37.092] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:21:37.108] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:21:37.130] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:21:38.490] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:21:38.493] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:22:17.745] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 14:22:18.876] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:22:19.096] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:22:19.102] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:22:19.120] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:22:19.139] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:22:20.091] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:22:20.094] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:22:21.085] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:22:21.087] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:22:29.629] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:22:29.631] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:23:09.467] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:23:09.677] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:23:09.683] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:23:09.684] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:23:09.702] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:26:11.245] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:26:11.470] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:26:11.473] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:26:11.475] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:26:11.494] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:26:23.207] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:26:23.210] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:41:35.104] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 14:41:37.823] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:41:38.043] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:41:38.046] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:41:53.572] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:41:53.806] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:41:53.809] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:41:54.869] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:41:55.078] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:41:55.081] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:41:55.679] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:41:55.913] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:41:55.918] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:41:57.034] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:41:57.251] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:41:57.255] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:41:58.619] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:41:58.828] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:41:58.831] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:42:16.097] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 14:42:18.389] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:42:18.619] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:42:18.651] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:42:20.907] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:42:55.158] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 14:42:56.837] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:42:57.051] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:42:57.057] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:42:57.970] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:42:58.206] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:42:58.210] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:43:06.806] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:43:07.011] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:43:07.014] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:43:27.061] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395729777017
+[2014-03-25 14:43:28.215] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395729778175
+[2014-03-25 14:43:37.013] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395729786987
+[2014-03-25 14:43:53.987] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 14:43:55.130] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:44:56.349] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:44:56.525] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:45:24.112] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 14:45:25.799] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:45:26.019] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:45:30.392] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:45:51.869] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:45:52.100] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:45:52.103] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:45:56.016] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395729925983
+[2014-03-25 14:46:22.115] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395729952071
+[2014-03-25 14:46:23.679] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:46:23.903] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:46:23.907] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:46:24.527] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:46:24.717] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:46:24.720] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:46:40.375] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:46:42.917] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:46:42.923] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:46:53.905] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395729983876
+[2014-03-25 14:46:54.732] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395729984690
+[2014-03-25 14:47:12.383] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:47:12.645] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:47:12.649] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:47:26.850] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395730000566
+[2014-03-25 14:47:29.016] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:48:47.508] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 14:48:49.800] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:48:50.036] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:48:50.047] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:48:53.498] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395730129989
+[2014-03-25 14:48:53.510] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:48:56.196] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:48:56.416] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:48:56.418] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:48:56.420] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395730136385
+[2014-03-25 14:48:56.472] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:49:00.865] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:49:01.066] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:49:01.187] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:49:06.070] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395730141039
+[2014-03-25 14:49:06.082] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:49:31.052] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 14:49:33.053] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:49:33.259] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:49:33.298] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:49:33.300] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395730173227
+[2014-03-25 14:49:33.320] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:49:48.978] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:49:49.188] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:49:49.191] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:49:49.192] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395730189154
+[2014-03-25 14:49:49.213] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:49:55.388] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:50:12.052] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 14:50:14.006] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:50:16.967] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:50:17.279] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:50:17.330] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395730214187
+[2014-03-25 14:50:17.346] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:50:19.264] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:50:19.490] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:50:19.493] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:50:19.506] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395730219461
+[2014-03-25 14:50:19.521] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:50:20.480] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:50:20.499] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395730219462
+[2014-03-25 14:50:21.252] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:50:21.277] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395730219463
+[2014-03-25 14:53:45.273] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 14:53:46.747] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:53:46.962] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:53:46.966] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:53:46.968] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395730426926
+[2014-03-25 14:53:47.168] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:53:51.408] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:53:51.409] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 14:54:16.708] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 14:54:18.292] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:54:18.513] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:54:18.533] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:54:18.535] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395730458460
+[2014-03-25 14:54:18.555] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:55:24.116] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 14:55:25.993] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:55:26.206] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:55:26.313] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:55:26.316] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395730526173
+[2014-03-25 14:55:26.698] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:55:57.318] [DEBUG] module - SQL: INSERT INTO knowledge_class VALUES `Id` = '0', `Id_display` = '0', `Name` = '1', `Name_display` = '1', `Description` = '1', `Description_display` = '1'
+[2014-03-25 14:55:57.333] [ERROR] module - { [Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`Id` = '0', `Id_display` = '0', `Name` = '1', `Name_display` = '1', `Description' at line 1]
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlState: '42000',
+  index: 0 }
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`Id` = '0', `Id_display` = '0', `Name` = '1', `Name_display` = '1', `Description' at line 1
+    at Query.Sequence._packetToError (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:30:14)
+    at Query.ErrorPacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Query.js:82:18)
+    at Protocol._parsePacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:72:28)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    --------------------
+    at Protocol._enqueue (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:110:48)
+    at PoolConnection.Connection.query (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:165:25)
+    at ConnectionPool.query (E:\My Project\TPHome\public\lib\conn_pool.js:23:36)
+    at Pool.getConnection.PoolConnection.config (E:\My Project\TPHome\node_modules\mysql\lib\Pool.js:35:7)
+    at process._tickCallback (node.js:415:13)
+[2014-03-25 14:57:25.076] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 14:57:29.571] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 14:57:29.575] [INFO] system - GET /
+[2014-03-25 14:57:29.788] [INFO] system - GET /ejstest.ejs
+[2014-03-25 14:57:32.949] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 14:57:33.183] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 14:57:33.185] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 14:57:33.188] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395730653153
+[2014-03-25 14:57:33.210] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 14:57:36.388] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 6
+[2014-03-25 14:57:36.394] [INFO] system - GET /KnowledgeBase/show?id=6
+[2014-03-25 14:57:37.967] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 14:57:37.972] [INFO] system - GET /
+[2014-03-25 14:57:38.170] [INFO] system - GET /ejstest.ejs
+[2014-03-25 15:04:43.198] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 6
+[2014-03-25 15:04:43.204] [INFO] system - GET /KnowledgeBase/show?id=6
+[2014-03-25 15:04:49.222] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 15:04:49.228] [INFO] system - GET /
+[2014-03-25 15:04:49.358] [INFO] system - GET /ejstest.ejs
+[2014-03-25 15:05:02.186] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 15:05:02.320] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 15:05:02.323] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 15:05:02.347] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395731102304
+[2014-03-25 15:05:02.372] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 15:05:04.880] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 15:05:04.882] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395731102305
+[2014-03-25 15:22:22.496] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 15:22:22.503] [INFO] system - GET /
+[2014-03-25 15:22:22.677] [INFO] system - GET /ejstest.ejs
+[2014-03-25 15:38:30.102] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 11
+[2014-03-25 15:38:30.115] [INFO] system - GET /KnowledgeBase/show?id=11
+[2014-03-25 15:39:44.227] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-25 15:39:44.232] [INFO] system - GET /
+[2014-03-25 15:39:44.402] [INFO] system - GET /ejstest.ejs
+[2014-03-25 15:54:48.820] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 15:54:49.003] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 15:54:49.003] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395734088970
+[2014-03-25 15:54:49.006] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 15:54:49.024] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 16:00:33.545] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 16:00:33.547] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395734088971
+[2014-03-25 16:00:35.409] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 16:00:35.410] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395734088972
+[2014-03-25 16:43:37.131] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 16:44:07.304] [DEBUG] module - SQL: INSERT INTO knowledge_class VALUES `Id` = '0', `Name` = 'r1', `Description` = '3'
+[2014-03-25 16:44:07.310] [ERROR] module - { [Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`Id` = '0', `Name` = 'r1', `Description` = '3'' at line 1]
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlState: '42000',
+  index: 0 }
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`Id` = '0', `Name` = 'r1', `Description` = '3'' at line 1
+    at Query.Sequence._packetToError (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:30:14)
+    at Query.ErrorPacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Query.js:82:18)
+    at Protocol._parsePacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:72:28)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    --------------------
+    at Protocol._enqueue (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:110:48)
+    at PoolConnection.Connection.query (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:165:25)
+    at ConnectionPool.query (E:\My Project\TPHome\public\lib\conn_pool.js:23:36)
+    at Pool.getConnection (E:\My Project\TPHome\node_modules\mysql\lib\Pool.js:53:14)
+    at Handshake.Sequence.end (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:78:24)
+    at Handshake.Sequence.OkPacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:87:8)
+    at Protocol._parsePacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:72:28)
+[2014-03-25 16:44:31.650] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 16:44:31.873] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 16:44:31.886] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 16:44:31.889] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395737071842
+[2014-03-25 16:44:31.915] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 16:44:37.176] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 16:45:17.092] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 16:45:18.703] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 16:45:18.886] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 16:45:18.890] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 16:45:18.892] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395737118853
+[2014-03-25 16:45:18.920] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 16:45:22.737] [DEBUG] module - SQL: INSERT INTO knowledge_class VALUES '0'
+[2014-03-25 16:45:22.739] [ERROR] module - { [Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0'' at line 1]
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlState: '42000',
+  index: 0 }
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0'' at line 1
+    at Query.Sequence._packetToError (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:30:14)
+    at Query.ErrorPacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Query.js:82:18)
+    at Protocol._parsePacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:72:28)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    --------------------
+    at Protocol._enqueue (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:110:48)
+    at PoolConnection.Connection.query (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:165:25)
+    at ConnectionPool.query (E:\My Project\TPHome\public\lib\conn_pool.js:23:36)
+    at Pool.getConnection.PoolConnection.config (E:\My Project\TPHome\node_modules\mysql\lib\Pool.js:35:7)
+    at process._tickCallback (node.js:415:13)
+[2014-03-25 16:45:52.752] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 16:46:21.658] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 16:46:25.271] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 16:46:25.455] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 16:46:25.466] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 16:46:25.468] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395737185415
+[2014-03-25 16:46:25.490] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 16:46:28.259] [DEBUG] module - SQL: INSERT INTO knowledge_class VALUES (`Id` = '0', `Name` = 'r2', `Description` = '4')
+[2014-03-25 16:46:28.261] [ERROR] module - { [Error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1]
+  code: 'ER_WRONG_VALUE_COUNT_ON_ROW',
+  errno: 1136,
+  sqlState: '21S01',
+  index: 0 }
+Error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+    at Query.Sequence._packetToError (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:30:14)
+    at Query.ErrorPacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Query.js:82:18)
+    at Protocol._parsePacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:72:28)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    --------------------
+    at Protocol._enqueue (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:110:48)
+    at PoolConnection.Connection.query (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:165:25)
+    at ConnectionPool.query (E:\My Project\TPHome\public\lib\conn_pool.js:23:36)
+    at Pool.getConnection.PoolConnection.config (E:\My Project\TPHome\node_modules\mysql\lib\Pool.js:35:7)
+    at process._tickCallback (node.js:415:13)
+[2014-03-25 16:48:26.471] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 16:48:29.561] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 16:48:29.752] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 16:48:29.779] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 16:48:29.781] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395737309712
+[2014-03-25 16:48:29.803] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 16:48:39.707] [DEBUG] module - SQL: INSERT INTO knowledge_class VALUES ('0')
+[2014-03-25 16:48:39.712] [ERROR] module - { [Error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1]
+  code: 'ER_WRONG_VALUE_COUNT_ON_ROW',
+  errno: 1136,
+  sqlState: '21S01',
+  index: 0 }
+Error: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+    at Query.Sequence._packetToError (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:30:14)
+    at Query.ErrorPacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Query.js:82:18)
+    at Protocol._parsePacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:72:28)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    --------------------
+    at Protocol._enqueue (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:110:48)
+    at PoolConnection.Connection.query (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:165:25)
+    at ConnectionPool.query (E:\My Project\TPHome\public\lib\conn_pool.js:23:36)
+    at Pool.getConnection.PoolConnection.config (E:\My Project\TPHome\node_modules\mysql\lib\Pool.js:35:7)
+    at process._tickCallback (node.js:415:13)
+[2014-03-25 17:13:53.456] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:13:55.943] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:13:56.129] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:13:56.178] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:13:56.195] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395738836099
+[2014-03-25 17:13:56.232] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:14:08.267] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:14:09.498] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:14:09.647] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:14:09.661] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:14:09.663] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395738849625
+[2014-03-25 17:14:09.682] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:14:41.337] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:14:42.996] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:14:43.178] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:14:43.223] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:14:43.227] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395738883143
+[2014-03-25 17:14:43.339] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:14:53.599] [DEBUG] module - SQL: INSERT INTO 'knowledge_class' ('Id','0','Name') VALUES ('fa','Description','g')
+[2014-03-25 17:14:53.601] [ERROR] module - { [Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''knowledge_class' ('Id','0','Name') VALUES ('fa','Description','g')' at line 1]
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlState: '42000',
+  index: 0 }
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''knowledge_class' ('Id','0','Name') VALUES ('fa','Description','g')' at line 1
+    at Query.Sequence._packetToError (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:30:14)
+    at Query.ErrorPacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Query.js:82:18)
+    at Protocol._parsePacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:72:28)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    --------------------
+    at Protocol._enqueue (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:110:48)
+    at PoolConnection.Connection.query (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:165:25)
+    at ConnectionPool.query (E:\My Project\TPHome\public\lib\conn_pool.js:23:36)
+    at Pool.getConnection.PoolConnection.config (E:\My Project\TPHome\node_modules\mysql\lib\Pool.js:35:7)
+    at process._tickCallback (node.js:415:13)
+[2014-03-25 17:15:38.281] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:15:39.441] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:15:39.625] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:15:39.638] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:15:39.640] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395738939592
+[2014-03-25 17:15:39.750] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:15:42.281] [DEBUG] module - SQL: INSERT INTO knowledge_class ('Id','0','Name') VALUES ('htweh','Description','h')
+[2014-03-25 17:15:42.284] [ERROR] module - { [Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Id','0','Name') VALUES ('htweh','Description','h')' at line 1]
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlState: '42000',
+  index: 0 }
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Id','0','Name') VALUES ('htweh','Description','h')' at line 1
+    at Query.Sequence._packetToError (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:30:14)
+    at Query.ErrorPacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Query.js:82:18)
+    at Protocol._parsePacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:72:28)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    --------------------
+    at Protocol._enqueue (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:110:48)
+    at PoolConnection.Connection.query (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:165:25)
+    at ConnectionPool.query (E:\My Project\TPHome\public\lib\conn_pool.js:23:36)
+    at Pool.getConnection.PoolConnection.config (E:\My Project\TPHome\node_modules\mysql\lib\Pool.js:35:7)
+    at process._tickCallback (node.js:415:13)
+[2014-03-25 17:15:56.519] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:15:56.766] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:15:56.767] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395738956718
+[2014-03-25 17:15:56.772] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:15:56.880] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:16:06.814] [DEBUG] module - SQL: INSERT INTO knowledge_class ('Id','0','Name') VALUES ('hrewh','Description','h')
+[2014-03-25 17:16:06.816] [ERROR] module - { [Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Id','0','Name') VALUES ('hrewh','Description','h')' at line 1]
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlState: '42000',
+  index: 0 }
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Id','0','Name') VALUES ('hrewh','Description','h')' at line 1
+    at Query.Sequence._packetToError (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:30:14)
+    at Query.ErrorPacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Query.js:82:18)
+    at Protocol._parsePacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:72:28)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    --------------------
+    at Protocol._enqueue (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:110:48)
+    at PoolConnection.Connection.query (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:165:25)
+    at ConnectionPool.query (E:\My Project\TPHome\public\lib\conn_pool.js:23:36)
+    at Pool.getConnection.PoolConnection.config (E:\My Project\TPHome\node_modules\mysql\lib\Pool.js:35:7)
+    at process._tickCallback (node.js:415:13)
+[2014-03-25 17:16:12.292] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 17:16:24.243] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:16:26.240] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:16:26.417] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:16:26.428] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:16:26.430] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395738986387
+[2014-03-25 17:16:26.453] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:16:34.417] [DEBUG] module - SQL: INSERT INTO knowledge_class ('Id','0','Name') VALUES ('gewgqa','Description','gg')
+[2014-03-25 17:16:34.421] [ERROR] module - { [Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Id','0','Name') VALUES ('gewgqa','Description','gg')' at line 1]
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlState: '42000',
+  index: 0 }
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Id','0','Name') VALUES ('gewgqa','Description','gg')' at line 1
+    at Query.Sequence._packetToError (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:30:14)
+    at Query.ErrorPacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Query.js:82:18)
+    at Protocol._parsePacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:72:28)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    --------------------
+    at Protocol._enqueue (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:110:48)
+    at PoolConnection.Connection.query (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:165:25)
+    at ConnectionPool.query (E:\My Project\TPHome\public\lib\conn_pool.js:23:36)
+    at Pool.getConnection.PoolConnection.config (E:\My Project\TPHome\node_modules\mysql\lib\Pool.js:35:7)
+    at process._tickCallback (node.js:415:13)
+[2014-03-25 17:18:10.575] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:18:11.789] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:18:11.972] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:18:11.985] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:18:11.988] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395739091942
+[2014-03-25 17:18:12.084] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:18:25.149] [DEBUG] module - SQL: INSERT INTO knowledge_class ('Id','Name','Description') VALUES ('0','ggw','ww')
+[2014-03-25 17:18:25.156] [ERROR] module - { [Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Id','Name','Description') VALUES ('0','ggw','ww')' at line 1]
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlState: '42000',
+  index: 0 }
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Id','Name','Description') VALUES ('0','ggw','ww')' at line 1
+    at Query.Sequence._packetToError (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:30:14)
+    at Query.ErrorPacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Query.js:82:18)
+    at Protocol._parsePacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:72:28)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    --------------------
+    at Protocol._enqueue (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:110:48)
+    at PoolConnection.Connection.query (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:165:25)
+    at ConnectionPool.query (E:\My Project\TPHome\public\lib\conn_pool.js:23:36)
+    at Pool.getConnection.PoolConnection.config (E:\My Project\TPHome\node_modules\mysql\lib\Pool.js:35:7)
+    at process._tickCallback (node.js:415:13)
+[2014-03-25 17:19:33.452] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:19:34.745] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:19:35.001] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:19:35.079] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:19:35.083] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395739174905
+[2014-03-25 17:19:35.162] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:19:47.398] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:19:54.174] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:19:54.357] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:19:54.361] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:19:54.363] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395739194325
+[2014-03-25 17:19:54.398] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:19:56.743] [DEBUG] module - SQL: INSERT INTO knowledge_class ('0','geg','g') VALUES (?,?,?)
+[2014-03-25 17:19:56.747] [ERROR] module - { [Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0','geg','g') VALUES (?,?,?)' at line 1]
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlState: '42000',
+  index: 0 }
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''0','geg','g') VALUES (?,?,?)' at line 1
+    at Query.Sequence._packetToError (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:30:14)
+    at Query.ErrorPacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Query.js:82:18)
+    at Protocol._parsePacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:72:28)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    --------------------
+    at Protocol._enqueue (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:110:48)
+    at PoolConnection.Connection.query (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:165:25)
+    at ConnectionPool.query (E:\My Project\TPHome\public\lib\conn_pool.js:23:36)
+    at Pool.getConnection.PoolConnection.config (E:\My Project\TPHome\node_modules\mysql\lib\Pool.js:35:7)
+    at process._tickCallback (node.js:415:13)
+[2014-03-25 17:20:13.801] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:20:14.934] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:20:15.136] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:20:15.151] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:20:15.152] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395739215089
+[2014-03-25 17:20:15.174] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:20:17.520] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','feg','g')
+[2014-03-25 17:21:15.615] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:21:17.816] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:21:17.998] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:21:18.054] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:21:18.058] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395739277965
+[2014-03-25 17:21:18.083] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:21:21.704] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','grg','44')
+[2014-03-25 17:21:47.167] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:21:49.632] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:21:49.822] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:21:49.897] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:21:49.916] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395739309791
+[2014-03-25 17:21:49.946] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:21:52.732] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','ge','gg')
+[2014-03-25 17:23:25.288] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:23:40.748] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:23:40.945] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:23:41.036] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:23:41.040] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395739420915
+[2014-03-25 17:23:41.332] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:23:54.038] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','geg','gg')
+[2014-03-25 17:24:50.780] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:24:53.106] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:24:53.302] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:24:53.313] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:24:53.316] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395739493272
+[2014-03-25 17:24:53.334] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:24:56.226] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','gg','ee')
+[2014-03-25 17:25:21.135] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:25:22.360] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:25:22.553] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:25:22.581] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:25:22.583] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395739522523
+[2014-03-25 17:25:22.606] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:25:25.268] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','ge','ee')
+[2014-03-25 17:25:57.752] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:25:59.397] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:25:59.583] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:25:59.647] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:25:59.651] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395739559555
+[2014-03-25 17:25:59.968] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:26:02.829] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','gege','ww')
+[2014-03-25 17:26:33.544] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:26:35.940] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:26:36.109] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:26:36.113] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:26:36.115] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395739596079
+[2014-03-25 17:26:36.142] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:26:39.080] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','gegegg','g')
+[2014-03-25 17:26:46.475] [DEBUG] module - SQL: SELECT MAX('knowledge_class') FROM 'Id'
+[2014-03-25 17:26:46.478] [ERROR] module - { [Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Id'' at line 1]
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlState: '42000',
+  index: 0 }
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Id'' at line 1
+    at Query.Sequence._packetToError (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:30:14)
+    at Query.ErrorPacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Query.js:82:18)
+    at Protocol._parsePacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:72:28)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    --------------------
+    at Protocol._enqueue (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:110:48)
+    at PoolConnection.Connection.query (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:165:25)
+    at ConnectionPool.query (E:\My Project\TPHome\public\lib\conn_pool.js:23:36)
+    at Pool.getConnection (E:\My Project\TPHome\node_modules\mysql\lib\Pool.js:53:14)
+    at Handshake.Sequence.end (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:78:24)
+    at Handshake.Sequence.OkPacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:87:8)
+    at Protocol._parsePacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:72:28)
+[2014-03-25 17:26:57.743] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:26:58.117] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','gegegg','g')
+[2014-03-25 17:27:37.007] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:27:39.669] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:27:39.862] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:27:39.884] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:27:39.887] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395739659828
+[2014-03-25 17:27:39.908] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:27:42.701] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','ge','g')
+[2014-03-25 17:27:42.776] [DEBUG] module - SQL: SELECT MAX(undefined
+[2014-03-25 17:27:42.780] [ERROR] module - { [Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1]
+  code: 'ER_PARSE_ERROR',
+  errno: 1064,
+  sqlState: '42000',
+  index: 0 }
+Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+    at Query.Sequence._packetToError (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:30:14)
+    at Query.ErrorPacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Query.js:82:18)
+    at Protocol._parsePacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:72:28)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    --------------------
+    at Protocol._enqueue (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:110:48)
+    at PoolConnection.Connection.query (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:165:25)
+    at ConnectionPool.query (E:\My Project\TPHome\public\lib\conn_pool.js:23:36)
+    at Pool.getConnection (E:\My Project\TPHome\node_modules\mysql\lib\Pool.js:53:14)
+    at Handshake.Sequence.end (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:78:24)
+    at Handshake.Sequence.OkPacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:87:8)
+    at Protocol._parsePacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:72:28)
+[2014-03-25 17:28:36.622] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:28:37.991] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:28:38.188] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:28:38.200] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:28:38.202] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395739718151
+[2014-03-25 17:28:38.225] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:28:41.130] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','geggg','d')
+[2014-03-25 17:28:41.282] [DEBUG] module - SQL: SELECT MAX(Id) FROM knowledge_class
+[2014-03-25 17:29:34.806] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:29:42.847] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:29:43.037] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:29:43.057] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:29:43.059] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395739783008
+[2014-03-25 17:29:43.085] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:29:45.906] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','fgf','e')
+[2014-03-25 17:29:45.988] [DEBUG] module - SQL: SELECT MAX(Id) FROM knowledge_class
+[2014-03-25 17:30:22.257] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:30:23.678] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:30:23.874] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:30:23.878] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:30:23.881] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395739823842
+[2014-03-25 17:30:24.132] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:30:26.606] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','gfge','e')
+[2014-03-25 17:30:26.654] [DEBUG] module - SQL: SELECT MAX(Id) AS MaxId FROM knowledge_class
+[2014-03-25 17:30:26.657] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 17:30:49.858] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:30:50.074] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:30:50.090] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:30:50.092] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395739850047
+[2014-03-25 17:30:50.130] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:30:55.551] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','11','23')
+[2014-03-25 17:30:55.833] [DEBUG] module - SQL: SELECT MAX(Id) AS MaxId FROM knowledge_class
+[2014-03-25 17:30:59.109] [INFO] system - POST /MvcAjax/POST
+[2014-03-25 17:33:48.578] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:33:48.777] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:33:48.778] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395740028749
+[2014-03-25 17:33:48.784] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:33:48.829] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:38:34.452] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:38:34.673] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:38:34.675] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395740314642
+[2014-03-25 17:38:34.680] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:38:34.716] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:38:45.679] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:38:45.944] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:38:45.948] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:38:45.949] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395740325871
+[2014-03-25 17:38:45.969] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:38:54.394] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-25 17:38:55.640] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:38:55.853] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:38:55.857] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:38:55.861] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395740335816
+[2014-03-25 17:38:56.132] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-25 17:39:58.964] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-25 17:39:59.313] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-25 17:39:59.317] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-25 17:39:59.321] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395740399151
+[2014-03-25 17:39:59.347] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs

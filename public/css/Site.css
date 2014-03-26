@@ -7,6 +7,9 @@ body {
 .table th {
     font-size: 15px !important;
 }
+.portrait-table th {
+    width:90px;
+}
 
 /* Wrapping element */
 /* Set some basic padding to keep content from hitting the edges */

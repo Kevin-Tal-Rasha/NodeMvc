@@ -16,9 +16,18 @@
   <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
   <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
   <ItemGroup>
+    <Compile Include="controllers\CommonFunc.js" />
+    <Compile Include="public\js\ejs\ejs_fulljslint.js" />
+    <Compile Include="public\js\ejs\ejs_production.js" />
+    <Compile Include="public\js\j-grid.js" />
     <Compile Include="run.js" />
     <Compile Include="controllers\index.js" />
     <Compile Include="models\User.js" />
+    <Content Include="public\css\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="public\css\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="public\css\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="public\css\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="public\css\j-grid.css" />
     <Content Include="static\StaticPage.html" />
     <Content Include="views\foot.html" />
     <Content Include="views\head.html" />
@@ -619,7 +628,6 @@
     <Compile Include="public\lib\logger.js" />
     <Compile Include="public\lib\mvc.js" />
     <Compile Include="public\lib\server.js" />
-    <Content Include="public\css\fonts\glyphicons-halflings-regular.svg" />
     <Compile Include="public\js\bootstrap-extend\bootstrap-collapse-panel.js" />
     <Compile Include="public\js\bootstrap-extend\bootstrap-datetimepicker.js" />
     <Compile Include="public\js\bootstrap-extend\bootstrap-datetimepicker.zh-CN.js" />
@@ -754,11 +762,12 @@
     <Folder Include="node_modules\mysql\tool" />
     <Folder Include="public\" />
     <Folder Include="public\css" />
-    <Folder Include="public\css\fonts" />
-    <Folder Include="public\errorpages" />
+    <Folder Include="public\css\fonts\" />
+    <Folder Include="public\errorpages\" />
     <Folder Include="public\images" />
     <Folder Include="public\js" />
     <Folder Include="public\js\bootstrap-extend" />
+    <Folder Include="public\js\ejs\" />
     <Folder Include="public\lib" />
     <Folder Include="public\logs\" />
     <Folder Include="static" />

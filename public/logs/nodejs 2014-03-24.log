@@ -1,0 +1,563 @@
+[2014-03-24 17:20:57.042] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-24 17:21:45.414] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:21:45.419] [DEBUG] module - SQL: SELECT Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:21:45.420] [DEBUG] module - SQL: SELECT Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:21:45.421] [DEBUG] module - SQL: SELECT Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:21:45.421] [DEBUG] module - SQL: SELECT Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:21:45.421] [DEBUG] module - SQL: SELECT Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:24:05.300] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-24 17:24:06.706] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:24:06.712] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:24:06.713] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:24:06.713] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:24:06.714] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:24:53.285] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-24 17:24:54.939] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:24:54.944] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:24:54.945] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:24:54.945] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:24:54.945] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:24:54.946] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:24:54.946] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:24:54.952] [INFO] system - GET /
+[2014-03-24 17:25:15.904] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-24 17:25:18.064] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:25:18.069] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:25:18.070] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:25:18.071] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:25:18.071] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:25:18.071] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:25:18.072] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:25:18.078] [INFO] system - GET /
+[2014-03-24 17:25:30.475] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:25:30.477] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:25:30.477] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:25:30.478] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:25:30.478] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:25:30.479] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:25:30.479] [DEBUG] module - SQL: SELECT Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:25:30.485] [INFO] system - GET /
+[2014-03-24 17:26:42.585] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-24 17:26:43.777] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:26:43.783] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:26:43.783] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:26:43.784] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:26:43.784] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:26:43.784] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:26:43.785] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:26:43.791] [INFO] system - GET /
+[2014-03-24 17:29:20.152] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-24 17:29:21.511] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:29:21.516] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:29:21.517] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:29:21.518] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:29:21.518] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:29:21.518] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:29:21.518] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:29:21.525] [INFO] system - GET /
+[2014-03-24 17:29:22.807] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id
+[2014-03-24 17:29:22.813] [INFO] system - GET /KnowledgeBase/show?id=5
+[2014-03-24 17:29:26.219] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:29:26.221] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:29:26.221] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:29:26.222] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:29:26.223] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:29:26.225] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:29:26.226] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:29:26.232] [INFO] system - GET /
+[2014-03-24 17:29:27.389] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id
+[2014-03-24 17:29:27.394] [INFO] system - GET /KnowledgeBase/show?id=6
+[2014-03-24 17:29:29.035] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:29:29.037] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:29:29.038] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:29:29.039] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:29:29.040] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:29:29.041] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:29:29.042] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:29:29.050] [INFO] system - GET /
+[2014-03-24 17:29:30.978] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id
+[2014-03-24 17:29:30.983] [INFO] system - GET /KnowledgeBase/show?id=6
+[2014-03-24 17:29:32.763] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:29:32.764] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:29:32.765] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:29:32.766] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:29:32.767] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:29:32.768] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:29:32.769] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:29:32.775] [INFO] system - GET /
+[2014-03-24 17:30:01.795] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-24 17:30:03.089] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:30:03.094] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:30:03.095] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:30:03.095] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:30:03.095] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:30:03.096] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:30:03.096] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:30:03.103] [INFO] system - GET /
+[2014-03-24 17:30:04.012] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = undefined
+[2014-03-24 17:30:04.017] [ERROR] module - { [Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause']
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlState: '42S22',
+  index: 0 }
+Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+    at Query.Sequence._packetToError (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:30:14)
+    at Query.ErrorPacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Query.js:82:18)
+    at Protocol._parsePacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:72:28)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    --------------------
+    at Protocol._enqueue (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:110:48)
+    at PoolConnection.Connection.query (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:165:25)
+    at ConnectionPool.query (E:\My Project\TPHome\public\lib\conn_pool.js:20:24)
+    at Pool.getConnection.PoolConnection.config (E:\My Project\TPHome\node_modules\mysql\lib\Pool.js:35:7)
+    at process._tickCallback (node.js:415:13)
+[2014-03-24 17:31:29.421] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-24 17:31:35.323] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 5
+[2014-03-24 17:31:35.339] [INFO] system - GET /KnowledgeBase/show?id=5
+[2014-03-24 17:31:38.509] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:38.511] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:38.513] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:38.514] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:38.515] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:38.516] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:38.516] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:38.527] [INFO] system - GET /
+[2014-03-24 17:31:39.315] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 6
+[2014-03-24 17:31:39.319] [INFO] system - GET /KnowledgeBase/show?id=6
+[2014-03-24 17:31:40.610] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:40.612] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:40.612] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:40.613] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:40.615] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:40.616] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:40.617] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:40.623] [INFO] system - GET /
+[2014-03-24 17:31:43.850] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:43.852] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:43.853] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:43.853] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:43.854] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:43.855] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:43.856] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:43.862] [INFO] system - GET /
+[2014-03-24 17:31:45.166] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 6
+[2014-03-24 17:31:45.171] [INFO] system - GET /KnowledgeBase/show?id=6
+[2014-03-24 17:31:45.969] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:45.971] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:45.972] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:45.973] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:45.974] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:45.975] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:45.976] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:45.983] [INFO] system - GET /
+[2014-03-24 17:31:47.628] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 5
+[2014-03-24 17:31:47.632] [INFO] system - GET /KnowledgeBase/show?id=5
+[2014-03-24 17:31:49.059] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:49.060] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:49.061] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:49.062] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:49.063] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:49.064] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:49.065] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:49.072] [INFO] system - GET /
+[2014-03-24 17:31:50.156] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:50.158] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:50.158] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:50.159] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:50.160] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:50.161] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:50.162] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:50.167] [INFO] system - GET /
+[2014-03-24 17:31:50.666] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:50.668] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:50.669] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:50.670] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:50.671] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:50.672] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:50.672] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:50.680] [INFO] system - GET /
+[2014-03-24 17:31:51.248] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:51.250] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:51.250] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:51.250] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:51.251] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:51.251] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:51.252] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:51.255] [INFO] system - GET /
+[2014-03-24 17:31:51.832] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:51.833] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:51.834] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:51.834] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:51.834] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:51.835] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:51.835] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:51.839] [INFO] system - GET /
+[2014-03-24 17:31:52.423] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:52.424] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:52.424] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:52.425] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:52.425] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:52.426] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:52.426] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:52.432] [INFO] system - GET /
+[2014-03-24 17:31:53.472] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:53.473] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:53.474] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:53.475] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:53.476] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:53.477] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:53.478] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:53.485] [INFO] system - GET /
+[2014-03-24 17:31:54.003] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:54.004] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:54.004] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:54.005] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:54.005] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:54.006] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:54.006] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:54.010] [INFO] system - GET /
+[2014-03-24 17:31:54.405] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:54.407] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:54.408] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:54.409] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:54.409] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:54.410] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:54.411] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:54.419] [INFO] system - GET /
+[2014-03-24 17:31:54.625] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:54.627] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:54.629] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:54.630] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:54.631] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:54.631] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:54.632] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:54.637] [INFO] system - GET /
+[2014-03-24 17:31:54.873] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:54.875] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:54.877] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:54.877] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:54.878] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:54.879] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:54.881] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:54.902] [INFO] system - GET /
+[2014-03-24 17:31:55.086] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:55.089] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:55.089] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:55.090] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:55.091] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:55.091] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:55.092] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:55.098] [INFO] system - GET /
+[2014-03-24 17:31:55.858] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:55.860] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:55.860] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:55.861] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:55.862] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:55.863] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:55.864] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:55.869] [INFO] system - GET /
+[2014-03-24 17:31:56.396] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:56.397] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:56.398] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:56.399] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:56.400] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:56.401] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:56.401] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:56.405] [INFO] system - GET /
+[2014-03-24 17:31:56.753] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:56.754] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:56.754] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:56.755] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:56.755] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:56.756] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:56.756] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:56.759] [INFO] system - GET /
+[2014-03-24 17:31:57.292] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:57.294] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:57.294] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:57.295] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:57.295] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:57.296] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:57.297] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:57.301] [INFO] system - GET /
+[2014-03-24 17:31:57.821] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:57.822] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:57.823] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:57.824] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:57.824] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:57.825] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:57.825] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:57.831] [INFO] system - GET /
+[2014-03-24 17:31:58.615] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:58.617] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:58.618] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:58.619] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:58.619] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:58.619] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:58.620] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:58.625] [INFO] system - GET /
+[2014-03-24 17:31:59.323] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:59.325] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:59.326] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:59.326] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:59.327] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:59.327] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:59.328] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:59.334] [INFO] system - GET /
+[2014-03-24 17:31:59.812] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:31:59.814] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:31:59.815] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:31:59.815] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:31:59.816] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:31:59.817] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:31:59.817] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:31:59.823] [INFO] system - GET /
+[2014-03-24 17:32:00.254] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:32:00.256] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:32:00.256] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:32:00.257] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:32:00.258] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:32:00.258] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:32:00.258] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:32:00.266] [INFO] system - GET /
+[2014-03-24 17:32:00.813] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:32:00.815] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:32:00.815] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:32:00.816] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:32:00.816] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:32:00.816] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:32:00.817] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:32:00.821] [INFO] system - GET /
+[2014-03-24 17:32:01.066] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:32:01.066] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:32:01.067] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:32:01.067] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:32:01.067] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:32:01.067] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:32:01.068] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:32:01.070] [INFO] system - GET /
+[2014-03-24 17:32:01.394] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:32:01.395] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:32:01.395] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:32:01.395] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:32:01.396] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:32:01.396] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:32:01.396] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:32:01.399] [INFO] system - GET /
+[2014-03-24 17:32:01.676] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:32:01.677] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:32:01.678] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:32:01.678] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:32:01.678] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:32:01.678] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:32:01.679] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:32:01.682] [INFO] system - GET /
+[2014-03-24 17:32:01.913] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:32:01.914] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:32:01.915] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:32:01.916] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:32:01.916] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:32:01.917] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:32:01.917] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:32:01.920] [INFO] system - GET /
+[2014-03-24 17:32:02.218] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:32:02.219] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:32:02.220] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:32:02.220] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:32:02.220] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:32:02.220] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:32:02.221] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:32:02.223] [INFO] system - GET /
+[2014-03-24 17:32:02.998] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:32:03.000] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:32:03.000] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:32:03.001] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:32:03.001] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:32:03.002] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:32:03.002] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:32:03.007] [INFO] system - GET /
+[2014-03-24 17:32:03.302] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:32:03.307] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:32:03.308] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:32:03.308] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:32:03.308] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:32:03.309] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:32:03.309] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:32:03.312] [INFO] system - GET /
+[2014-03-24 17:32:03.536] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:32:03.537] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:32:03.537] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:32:03.537] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:32:03.537] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:32:03.538] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:32:03.538] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:32:03.541] [INFO] system - GET /
+[2014-03-24 17:32:03.756] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:32:03.757] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:32:03.757] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:32:03.758] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:32:03.758] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:32:03.758] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:32:03.759] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:32:03.768] [INFO] system - GET /
+[2014-03-24 17:32:04.089] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:32:04.090] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:32:04.091] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:32:04.091] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:32:04.091] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:32:04.091] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:32:04.092] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:32:04.094] [INFO] system - GET /
+[2014-03-24 17:32:05.161] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:32:05.163] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:32:05.164] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:32:05.164] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:32:05.165] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:32:05.166] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:32:05.167] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:32:05.173] [INFO] system - GET /
+[2014-03-24 17:32:05.401] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:32:05.404] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:32:05.405] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:32:05.405] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:32:05.406] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:32:05.406] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:32:05.406] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:32:05.412] [INFO] system - GET /
+[2014-03-24 17:32:05.596] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:32:05.598] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:32:05.598] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:32:05.599] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:32:05.599] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:32:05.600] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:32:05.600] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:32:05.605] [INFO] system - GET /
+[2014-03-24 17:32:05.827] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:32:05.828] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:32:05.828] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:32:05.828] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:32:05.828] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:32:05.829] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:32:05.829] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:32:05.833] [INFO] system - GET /
+[2014-03-24 17:33:38.473] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-24 17:33:43.526] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:33:43.530] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:33:43.531] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:33:43.531] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:33:43.531] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:33:43.532] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:33:43.532] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:33:43.538] [INFO] system - GET /
+[2014-03-24 17:33:45.479] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 5
+[2014-03-24 17:33:45.485] [INFO] system - GET /KnowledgeBase/show?id=5
+[2014-03-24 17:33:49.027] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:33:49.028] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:33:49.029] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:33:49.030] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:33:49.031] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:33:49.032] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:33:49.033] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:33:49.040] [INFO] system - GET /
+[2014-03-24 17:33:49.923] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 6
+[2014-03-24 17:33:49.927] [INFO] system - GET /KnowledgeBase/show?id=6
+[2014-03-24 17:33:51.651] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:33:51.653] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:33:51.653] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:33:51.654] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:33:51.654] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:33:51.655] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:33:51.655] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:33:51.660] [INFO] system - GET /
+[2014-03-24 17:33:53.341] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:33:53.343] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:33:53.344] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:33:53.345] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:33:53.346] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:33:53.347] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:33:53.347] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:33:53.354] [INFO] system - GET /
+[2014-03-24 17:34:42.384] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 11
+[2014-03-24 17:34:42.389] [INFO] system - GET /KnowledgeBase/show?id=11
+[2014-03-24 17:34:44.207] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:34:44.209] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:34:44.210] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:34:44.211] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:34:44.213] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:34:44.214] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:34:44.214] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:34:44.221] [INFO] system - GET /
+[2014-03-24 17:34:45.767] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 6
+[2014-03-24 17:34:45.774] [INFO] system - GET /KnowledgeBase/show?id=6
+[2014-03-24 17:34:47.120] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:34:47.122] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:34:47.123] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:34:47.124] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:34:47.125] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:34:47.125] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:34:47.126] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:34:47.133] [INFO] system - GET /
+[2014-03-24 17:34:49.456] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 15
+[2014-03-24 17:34:49.461] [INFO] system - GET /KnowledgeBase/show?id=15
+[2014-03-24 17:34:50.959] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:34:50.960] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:34:50.961] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:34:50.961] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:34:50.962] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:34:50.963] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:34:50.963] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:34:50.968] [INFO] system - GET /
+[2014-03-24 17:35:30.738] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 5
+[2014-03-24 17:35:30.744] [INFO] system - GET /KnowledgeBase/show?id=5
+[2014-03-24 17:35:32.830] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:35:32.832] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:35:32.833] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:35:32.834] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:35:32.835] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:35:32.836] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:35:32.837] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:35:32.844] [INFO] system - GET /
+[2014-03-24 17:35:37.710] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:35:37.712] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:35:37.712] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:35:37.713] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:35:37.714] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:35:37.715] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:35:37.715] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:35:37.722] [INFO] system - GET /
+[2014-03-24 17:35:38.573] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 6
+[2014-03-24 17:35:38.576] [INFO] system - GET /KnowledgeBase/show?id=6
+[2014-03-24 17:35:40.260] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:35:40.262] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:35:40.262] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:35:40.263] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:35:40.264] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:35:40.266] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:35:40.266] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:35:40.273] [INFO] system - GET /
+[2014-03-24 17:35:41.364] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 15
+[2014-03-24 17:35:41.368] [INFO] system - GET /KnowledgeBase/show?id=15
+[2014-03-24 17:35:43.075] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:35:43.077] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:35:43.078] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:35:43.079] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:35:43.080] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:35:43.081] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:35:43.082] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:35:43.089] [INFO] system - GET /
+[2014-03-24 17:36:25.533] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 6
+[2014-03-24 17:36:25.537] [INFO] system - GET /KnowledgeBase/show?id=6
+[2014-03-24 17:36:29.182] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-24 17:36:29.184] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=1 ORDER BY id
+[2014-03-24 17:36:29.185] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=2 ORDER BY id
+[2014-03-24 17:36:29.186] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=3 ORDER BY id
+[2014-03-24 17:36:29.186] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=4 ORDER BY id
+[2014-03-24 17:36:29.187] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=5 ORDER BY id
+[2014-03-24 17:36:29.188] [DEBUG] module - SQL: SELECT Id, Tag, Title FROM tp_home.knowledge WHERE ClassId=6 ORDER BY id
+[2014-03-24 17:36:29.194] [INFO] system - GET /

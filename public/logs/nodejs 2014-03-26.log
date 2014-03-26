@@ -1,0 +1,506 @@
+[2014-03-26 09:08:44.904] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:08:45.865] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:08:46.637] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:08:46.640] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:08:46.751] [ERROR] console - Error: Failed to lookup view "404.html" in views directory "E:\My Project\TPHome\public\lib/../../views,E:\My Project\TPHome\public\lib/../../public/syspages"
+    at Function.app.render (E:\My Project\TPHome\node_modules\express\lib\application.js:493:17)
+    at ServerResponse.res.render (E:\My Project\TPHome\node_modules\express\lib\response.js:798:7)
+    at Mvc.init (E:\My Project\TPHome\public\lib\mvc.js:104:25)
+    at Mvc.init.app.all.type (E:\My Project\TPHome\public\lib\mvc.js:19:9)
+    at Object.exports.callControllerFunc (E:\My Project\TPHome\public\lib\common.js:105:13)
+    at createContext (E:\My Project\TPHome\public\lib\mvc.js:11:12)
+    at Object.Mvc.init [as handle] (E:\My Project\TPHome\public\lib\mvc.js:103:17)
+    at next (E:\My Project\TPHome\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at pass (E:\My Project\TPHome\node_modules\express\lib\router\index.js:110:24)
+    at Router._dispatch (E:\My Project\TPHome\node_modules\express\lib\router\index.js:173:5)
+[2014-03-26 09:08:46.752] [INFO] system - GET /favicon.ico
+[2014-03-26 09:08:46.768] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395796126604
+[2014-03-26 09:08:46.778] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:08:49.209] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:08:49.210] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395796129195
+[2014-03-26 09:08:49.264] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:09:30.449] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:09:30.617] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:09:30.622] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:09:30.624] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395796170596
+[2014-03-26 09:09:30.959] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:19:01.368] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:19:03.018] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:19:03.283] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:19:03.287] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:19:03.291] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395796743161
+[2014-03-26 09:19:03.307] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:19:45.785] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:19:48.871] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:19:49.055] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:19:49.057] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:19:49.059] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395796789007
+[2014-03-26 09:19:49.078] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:20:27.783] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:20:29.208] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:20:29.381] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:20:29.384] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:20:29.387] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395796829349
+[2014-03-26 09:20:29.409] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:21:01.055] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:21:02.415] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:21:02.619] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:21:02.622] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:21:02.625] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395796862583
+[2014-03-26 09:21:02.661] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:21:11.519] [DEBUG] module - SQL: INSERT INTO knowledge_class (undefined) VALUES (undefined)
+[2014-03-26 09:21:11.550] [ERROR] module - { [Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list']
+  code: 'ER_BAD_FIELD_ERROR',
+  errno: 1054,
+  sqlState: '42S22',
+  index: 0 }
+Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+    at Query.Sequence._packetToError (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:30:14)
+    at Query.ErrorPacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Query.js:82:18)
+    at Protocol._parsePacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:72:28)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    --------------------
+    at Protocol._enqueue (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:110:48)
+    at PoolConnection.Connection.query (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:165:25)
+    at ConnectionPool.query (E:\My Project\TPHome\public\lib\conn_pool.js:23:36)
+    at Pool.getConnection.PoolConnection.config (E:\My Project\TPHome\node_modules\mysql\lib\Pool.js:35:7)
+    at process._tickCallback (node.js:415:13)
+[2014-03-26 09:21:33.813] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:21:34.973] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:21:35.145] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:21:35.148] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:21:35.151] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395796895116
+[2014-03-26 09:21:35.170] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:21:38.033] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id) VALUES ('')
+[2014-03-26 09:21:38.038] [ERROR] module - { [Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '' for column 'Id' at row 1]
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlState: 'HY000',
+  index: 0 }
+Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '' for column 'Id' at row 1
+    at Query.Sequence._packetToError (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:30:14)
+    at Query.ErrorPacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Query.js:82:18)
+    at Protocol._parsePacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:72:28)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    --------------------
+    at Protocol._enqueue (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:110:48)
+    at PoolConnection.Connection.query (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:165:25)
+    at ConnectionPool.query (E:\My Project\TPHome\public\lib\conn_pool.js:23:36)
+    at Pool.getConnection.PoolConnection.config (E:\My Project\TPHome\node_modules\mysql\lib\Pool.js:35:7)
+    at process._tickCallback (node.js:415:13)
+[2014-03-26 09:21:59.128] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:22:00.157] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:22:00.323] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:22:00.325] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:22:00.327] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395796920296
+[2014-03-26 09:22:00.358] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:22:02.420] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id) VALUES ('')
+[2014-03-26 09:22:02.424] [ERROR] module - { [Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '' for column 'Id' at row 1]
+  code: 'ER_TRUNCATED_WRONG_VALUE_FOR_FIELD',
+  errno: 1366,
+  sqlState: 'HY000',
+  index: 0 }
+Error: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: '' for column 'Id' at row 1
+    at Query.Sequence._packetToError (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Sequence.js:30:14)
+    at Query.ErrorPacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\sequences\Query.js:82:18)
+    at Protocol._parsePacket (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:72:28)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    --------------------
+    at Protocol._enqueue (E:\My Project\TPHome\node_modules\mysql\lib\protocol\Protocol.js:110:48)
+    at PoolConnection.Connection.query (E:\My Project\TPHome\node_modules\mysql\lib\Connection.js:165:25)
+    at ConnectionPool.query (E:\My Project\TPHome\public\lib\conn_pool.js:23:36)
+    at Pool.getConnection.PoolConnection.config (E:\My Project\TPHome\node_modules\mysql\lib\Pool.js:35:7)
+    at process._tickCallback (node.js:415:13)
+[2014-03-26 09:22:27.522] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:22:28.689] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:22:29.041] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:22:29.046] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:22:29.050] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395796948829
+[2014-03-26 09:22:29.074] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:22:56.394] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:22:57.556] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:22:57.731] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:22:57.735] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:22:57.737] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395796977698
+[2014-03-26 09:22:57.779] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:23:47.071] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:23:47.284] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:23:47.287] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:23:58.308] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797027257
+[2014-03-26 09:23:58.332] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:24:40.097] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:24:41.508] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:24:41.702] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:24:41.706] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:24:41.708] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081670
+[2014-03-26 09:24:41.742] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:24:52.519] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='7'
+[2014-03-26 09:24:52.603] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=7&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081671
+[2014-03-26 09:24:59.102] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='8'
+[2014-03-26 09:24:59.315] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=8&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081672
+[2014-03-26 09:25:01.834] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='9'
+[2014-03-26 09:25:01.898] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=9&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081673
+[2014-03-26 09:25:03.967] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='10'
+[2014-03-26 09:25:04.232] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=10&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081674
+[2014-03-26 09:25:06.200] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='11'
+[2014-03-26 09:25:06.674] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=11&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081675
+[2014-03-26 09:25:09.070] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='12'
+[2014-03-26 09:25:09.113] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=12&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081676
+[2014-03-26 09:25:11.744] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='13'
+[2014-03-26 09:25:11.868] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=13&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081677
+[2014-03-26 09:25:13.715] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='14'
+[2014-03-26 09:25:13.816] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=14&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081678
+[2014-03-26 09:25:15.837] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='15'
+[2014-03-26 09:25:15.933] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=15&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081679
+[2014-03-26 09:25:17.896] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='16'
+[2014-03-26 09:25:17.942] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=16&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081680
+[2014-03-26 09:25:20.364] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='17'
+[2014-03-26 09:25:20.458] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=17&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081681
+[2014-03-26 09:25:22.612] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='18'
+[2014-03-26 09:25:22.656] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=18&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081682
+[2014-03-26 09:25:24.394] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='19'
+[2014-03-26 09:25:24.439] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=19&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081683
+[2014-03-26 09:25:26.820] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='20'
+[2014-03-26 09:25:26.868] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=20&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081684
+[2014-03-26 09:25:28.040] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:25:28.042] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081685
+[2014-03-26 09:25:28.729] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:25:28.730] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081686
+[2014-03-26 09:25:33.148] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','fegegeg','ee')
+[2014-03-26 09:25:33.244] [DEBUG] module - SQL: SELECT MAX(Id) AS MaxId FROM knowledge_class
+[2014-03-26 09:25:33.246] [INFO] system - POST /MvcAjax/POST
+[2014-03-26 09:25:34.753] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:25:34.755] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081687
+[2014-03-26 09:25:39.373] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','gege','ee')
+[2014-03-26 09:25:39.413] [DEBUG] module - SQL: SELECT MAX(Id) AS MaxId FROM knowledge_class
+[2014-03-26 09:25:39.414] [INFO] system - POST /MvcAjax/POST
+[2014-03-26 09:25:42.611] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','111','222')
+[2014-03-26 09:25:42.656] [DEBUG] module - SQL: SELECT MAX(Id) AS MaxId FROM knowledge_class
+[2014-03-26 09:25:42.657] [INFO] system - POST /MvcAjax/POST
+[2014-03-26 09:25:45.544] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='22'
+[2014-03-26 09:25:45.562] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=22&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081688
+[2014-03-26 09:25:47.275] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:25:47.277] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081689
+[2014-03-26 09:25:50.167] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='21'
+[2014-03-26 09:25:50.278] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=21&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081690
+[2014-03-26 09:25:52.200] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='23'
+[2014-03-26 09:25:52.283] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=23&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797081691
+[2014-03-26 09:29:00.688] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:29:00.880] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:29:00.886] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:29:00.887] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797340850
+[2014-03-26 09:29:00.914] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:29:03.980] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','11','111')
+[2014-03-26 09:29:04.232] [DEBUG] module - SQL: SELECT MAX(Id) AS MaxId FROM knowledge_class
+[2014-03-26 09:29:04.234] [INFO] system - POST /MvcAjax/POST
+[2014-03-26 09:29:12.772] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:29:12.913] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:29:12.918] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:29:12.920] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797352897
+[2014-03-26 09:29:13.010] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:29:52.895] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:29:53.277] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:29:53.281] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:29:53.284] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797393060
+[2014-03-26 09:29:53.324] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:31:09.574] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:31:09.801] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:31:09.805] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:31:09.807] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797469770
+[2014-03-26 09:31:09.834] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:31:21.662] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','f','f')
+[2014-03-26 09:31:21.707] [DEBUG] module - SQL: SELECT MAX(Id) AS MaxId FROM knowledge_class
+[2014-03-26 09:31:21.709] [INFO] system - POST /MvcAjax/POST
+[2014-03-26 09:31:30.367] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='25'
+[2014-03-26 09:31:30.415] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=25&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797469771
+[2014-03-26 09:31:32.100] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='24'
+[2014-03-26 09:31:32.131] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=24&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797469772
+[2014-03-26 09:31:34.057] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:31:34.059] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797469773
+[2014-03-26 09:31:53.503] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:31:58.859] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:31:59.094] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:31:59.098] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:31:59.100] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797519055
+[2014-03-26 09:31:59.130] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:32:02.203] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','gewgaq','g')
+[2014-03-26 09:32:02.599] [DEBUG] module - SQL: SELECT MAX(Id) AS MaxId FROM knowledge_class
+[2014-03-26 09:32:02.601] [INFO] system - POST /MvcAjax/POST
+[2014-03-26 09:32:07.792] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:32:07.794] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797519056
+[2014-03-26 09:33:52.410] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:34:27.504] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:34:29.846] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:34:30.291] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:34:30.294] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:34:30.295] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797670012
+[2014-03-26 09:34:30.314] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:34:34.698] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','aa','gg')
+[2014-03-26 09:34:34.947] [DEBUG] module - SQL: SELECT MAX(Id) AS MaxId FROM knowledge_class
+[2014-03-26 09:34:34.949] [INFO] system - POST /MvcAjax/POST
+[2014-03-26 09:37:07.288] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:37:09.058] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:37:09.251] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:37:09.254] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:37:09.256] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797829218
+[2014-03-26 09:37:09.318] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:37:25.156] [DEBUG] module - SQL: UPDATE knowledge_class SET Id='27', Name='aa', Description='ggggggg' WHERE Id='27'
+[2014-03-26 09:37:25.219] [INFO] system - POST /MvcAjax/POST
+[2014-03-26 09:37:31.952] [DEBUG] module - SQL: INSERT INTO knowledge_class (Id,Name,Description) VALUES ('0','g','a')
+[2014-03-26 09:37:32.022] [DEBUG] module - SQL: SELECT MAX(Id) AS MaxId FROM knowledge_class
+[2014-03-26 09:37:32.023] [INFO] system - POST /MvcAjax/POST
+[2014-03-26 09:37:35.303] [DEBUG] module - SQL: UPDATE knowledge_class SET Id='28', Name='g', Description='111111111111' WHERE Id='28'
+[2014-03-26 09:37:35.409] [INFO] system - POST /MvcAjax/POST
+[2014-03-26 09:37:37.463] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:37:37.465] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797829219
+[2014-03-26 09:37:40.628] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='28'
+[2014-03-26 09:37:40.861] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=28&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797829220
+[2014-03-26 09:37:42.626] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='27'
+[2014-03-26 09:37:42.786] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=27&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797829221
+[2014-03-26 09:37:44.680] [DEBUG] module - SQL: DELETE FROM knowledge_class WHERE Id='26'
+[2014-03-26 09:37:44.861] [INFO] system - GET /MvcAjax/GET?args%5Bid%5D=26&funcName=DeleteData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797829222
+[2014-03-26 09:37:46.039] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:37:46.040] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395797829223
+[2014-03-26 09:40:49.136] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:41:13.199] [ERROR] console - Error: Failed to lookup view "404.html" in views directory "E:\My Project\TPHome\public\lib/../../views,E:\My Project\TPHome\public\lib/../../public/syspages"
+    at Function.app.render (E:\My Project\TPHome\node_modules\express\lib\application.js:493:17)
+    at ServerResponse.res.render (E:\My Project\TPHome\node_modules\express\lib\response.js:798:7)
+    at Mvc.init (E:\My Project\TPHome\public\lib\mvc.js:104:25)
+    at Mvc.init.app.all.type (E:\My Project\TPHome\public\lib\mvc.js:19:9)
+    at Object.exports.callControllerFunc (E:\My Project\TPHome\public\lib\common.js:105:13)
+    at createContext (E:\My Project\TPHome\public\lib\mvc.js:11:12)
+    at Object.Mvc.init [as handle] (E:\My Project\TPHome\public\lib\mvc.js:103:17)
+    at next (E:\My Project\TPHome\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at pass (E:\My Project\TPHome\node_modules\express\lib\router\index.js:110:24)
+    at Router._dispatch (E:\My Project\TPHome\node_modules\express\lib\router\index.js:173:5)
+[2014-03-26 09:41:13.200] [INFO] system - GET /ERP%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E8%B0%83%E6%9F%A5%E8%A1%A8.pdf
+[2014-03-26 09:41:33.164] [ERROR] console - Error: Failed to lookup view "404.html" in views directory "E:\My Project\TPHome\public\lib/../../views,E:\My Project\TPHome\public\lib/../../public/syspages"
+    at Function.app.render (E:\My Project\TPHome\node_modules\express\lib\application.js:493:17)
+    at ServerResponse.res.render (E:\My Project\TPHome\node_modules\express\lib\response.js:798:7)
+    at Mvc.init (E:\My Project\TPHome\public\lib\mvc.js:104:25)
+    at Mvc.init.app.all.type (E:\My Project\TPHome\public\lib\mvc.js:19:9)
+    at Object.exports.callControllerFunc (E:\My Project\TPHome\public\lib\common.js:105:13)
+    at createContext (E:\My Project\TPHome\public\lib\mvc.js:11:12)
+    at Object.Mvc.init [as handle] (E:\My Project\TPHome\public\lib\mvc.js:103:17)
+    at next (E:\My Project\TPHome\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at pass (E:\My Project\TPHome\node_modules\express\lib\router\index.js:110:24)
+    at Router._dispatch (E:\My Project\TPHome\node_modules\express\lib\router\index.js:173:5)
+[2014-03-26 09:41:33.167] [INFO] system - GET /111
+[2014-03-26 09:42:01.074] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:42:05.804] [INFO] system - GET /111
+[2014-03-26 09:42:05.974] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:42:12.445] [INFO] system - GET /ERP%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E8%B0%83%E6%9F%A5%E8%A1%A8.pdf
+[2014-03-26 09:42:12.571] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:43:43.955] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:43:59.746] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:44:13.428] [INFO] system - GET /ERP%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E8%B0%83%E6%9F%A5%E8%A1%A8.pdf
+[2014-03-26 09:44:29.317] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-26 09:44:29.511] [INFO] system - GET /
+[2014-03-26 09:44:29.777] [INFO] system - GET /ejstest.ejs
+[2014-03-26 09:44:31.682] [DEBUG] module - SQL: SELECT T1.*, T2.Name AS ClassName FROM knowledge T1 LEFT JOIN knowledge_class T2     ON T1.ClassId = T2.Id WHERE T1.Id = 5
+[2014-03-26 09:44:31.706] [INFO] system - GET /KnowledgeBase/show?id=5
+[2014-03-26 09:44:33.748] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-26 09:44:33.754] [INFO] system - GET /
+[2014-03-26 09:44:33.878] [INFO] system - GET /ejstest.ejs
+[2014-03-26 09:44:34.776] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:44:34.899] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:44:34.903] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:44:34.904] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395798274882
+[2014-03-26 09:44:34.951] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:45:13.616] [INFO] system - GET /ERP%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E8%B0%83%E6%9F%A5%E8%A1%A8.pdf
+[2014-03-26 09:45:32.565] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:45:34.381] [INFO] system - GET /ERP%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E8%B0%83%E6%9F%A5%E8%A1%A8.pdf
+[2014-03-26 09:46:17.000] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:46:21.806] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-26 09:46:21.810] [INFO] system - GET /
+[2014-03-26 09:46:21.957] [INFO] system - GET /ejstest.ejs
+[2014-03-26 09:46:23.376] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:46:23.716] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:46:37.882] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:46:42.178] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:46:42.297] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:46:42.299] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:46:42.301] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395798402279
+[2014-03-26 09:46:42.321] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:46:50.633] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:46:50.750] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:46:50.754] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:46:50.756] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395798410737
+[2014-03-26 09:46:51.006] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:46:53.410] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:46:53.532] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:46:53.538] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:46:53.541] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395798413520
+[2014-03-26 09:46:53.636] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:47:12.301] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:47:13.937] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-26 09:47:13.941] [INFO] system - GET /
+[2014-03-26 09:47:14.054] [INFO] system - GET /ejstest.ejs
+[2014-03-26 09:47:15.024] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 09:47:15.198] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 09:47:15.202] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:47:15.203] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395798435172
+[2014-03-26 09:47:15.284] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 09:47:20.605] [INFO] system - GET /1
+[2014-03-26 09:47:20.720] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:47:22.429] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-26 09:47:22.435] [INFO] system - GET /
+[2014-03-26 09:47:22.561] [INFO] system - GET /ejstest.ejs
+[2014-03-26 09:52:16.225] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:52:18.922] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-26 09:52:18.927] [INFO] system - GET /
+[2014-03-26 09:52:19.098] [INFO] system - GET /ejstest.ejs
+[2014-03-26 09:53:54.220] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:54:33.853] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:54:35.892] [INFO] system - GET /download/ERP%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E8%B0%83%E6%9F%A5%E8%A1%A8.pdf
+[2014-03-26 09:55:02.260] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:55:03.545] [ERROR] console - Error: Forbidden
+    at SendStream.error (E:\My Project\TPHome\node_modules\express\node_modules\send\lib\send.js:145:16)
+    at SendStream.pipe (E:\My Project\TPHome\node_modules\express\node_modules\send\lib\send.js:307:39)
+    at ServerResponse.res.sendfile (E:\My Project\TPHome\node_modules\express\lib\response.js:345:8)
+    at ServerResponse.res.download (E:\My Project\TPHome\node_modules\express\lib\response.js:374:15)
+    at Object.Mvc.init [as handle] (E:\My Project\TPHome\public\lib\mvc.js:93:21)
+    at next (E:\My Project\TPHome\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at pass (E:\My Project\TPHome\node_modules\express\lib\router\index.js:110:24)
+    at Router._dispatch (E:\My Project\TPHome\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (E:\My Project\TPHome\node_modules\express\lib\router\index.js:33:10)
+    at next (E:\My Project\TPHome\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+[2014-03-26 09:55:03.546] [INFO] system - GET /download/ERP%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E8%B0%83%E6%9F%A5%E8%A1%A8.pdf
+[2014-03-26 09:55:03.702] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 09:55:14.300] [ERROR] console - Error: Forbidden
+    at SendStream.error (E:\My Project\TPHome\node_modules\express\node_modules\send\lib\send.js:145:16)
+    at SendStream.pipe (E:\My Project\TPHome\node_modules\express\node_modules\send\lib\send.js:307:39)
+    at ServerResponse.res.sendfile (E:\My Project\TPHome\node_modules\express\lib\response.js:345:8)
+    at ServerResponse.res.download (E:\My Project\TPHome\node_modules\express\lib\response.js:374:15)
+    at Object.Mvc.init [as handle] (E:\My Project\TPHome\public\lib\mvc.js:93:21)
+    at next (E:\My Project\TPHome\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at pass (E:\My Project\TPHome\node_modules\express\lib\router\index.js:110:24)
+    at Router._dispatch (E:\My Project\TPHome\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (E:\My Project\TPHome\node_modules\express\lib\router\index.js:33:10)
+    at next (E:\My Project\TPHome\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+[2014-03-26 09:55:26.868] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:55:31.452] [ERROR] console - Error: Forbidden
+    at SendStream.error (E:\My Project\TPHome\node_modules\express\node_modules\send\lib\send.js:145:16)
+    at SendStream.pipe (E:\My Project\TPHome\node_modules\express\node_modules\send\lib\send.js:307:39)
+    at ServerResponse.res.sendfile (E:\My Project\TPHome\node_modules\express\lib\response.js:345:8)
+    at ServerResponse.res.download (E:\My Project\TPHome\node_modules\express\lib\response.js:374:15)
+    at Object.Mvc.init [as handle] (E:\My Project\TPHome\public\lib\mvc.js:94:21)
+    at next (E:\My Project\TPHome\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at pass (E:\My Project\TPHome\node_modules\express\lib\router\index.js:110:24)
+    at Router._dispatch (E:\My Project\TPHome\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (E:\My Project\TPHome\node_modules\express\lib\router\index.js:33:10)
+    at next (E:\My Project\TPHome\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+[2014-03-26 09:55:31.453] [INFO] system - GET /download/ERP%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E8%B0%83%E6%9F%A5%E8%A1%A8.pdf
+[2014-03-26 09:56:23.049] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:56:25.264] [ERROR] console - Error: Forbidden
+    at SendStream.error (E:\My Project\TPHome\node_modules\express\node_modules\send\lib\send.js:145:16)
+    at SendStream.pipe (E:\My Project\TPHome\node_modules\express\node_modules\send\lib\send.js:307:39)
+    at ServerResponse.res.sendfile (E:\My Project\TPHome\node_modules\express\lib\response.js:345:8)
+    at Object.Mvc.init [as handle] (E:\My Project\TPHome\public\lib\mvc.js:94:21)
+    at next (E:\My Project\TPHome\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at pass (E:\My Project\TPHome\node_modules\express\lib\router\index.js:110:24)
+    at Router._dispatch (E:\My Project\TPHome\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (E:\My Project\TPHome\node_modules\express\lib\router\index.js:33:10)
+    at next (E:\My Project\TPHome\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at Object.regexp (E:\My Project\TPHome\node_modules\log4js\lib\connect-logger.js:99:5)
+[2014-03-26 09:56:25.265] [INFO] system - GET /download/ERP%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E8%B0%83%E6%9F%A5%E8%A1%A8.pdf
+[2014-03-26 09:58:34.507] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:58:36.549] [ERROR] console - Error: ENOENT, stat 'E:\ERP使用情况调查表.pdf'
+[2014-03-26 09:58:36.551] [INFO] system - GET /download/ERP%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E8%B0%83%E6%9F%A5%E8%A1%A8.pdf
+[2014-03-26 09:58:58.171] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 09:58:59.512] [ERROR] console - Error: ENOENT, stat 'E:\ERP使用情况调查表.pdf'
+[2014-03-26 09:58:59.513] [INFO] system - GET /download/ERP%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E8%B0%83%E6%9F%A5%E8%A1%A8.pdf
+[2014-03-26 10:01:59.909] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 10:02:02.823] [ERROR] console - Error: ENOENT, stat 'E:\ERP.pdf'
+[2014-03-26 10:02:02.824] [INFO] system - GET /download/ERP%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E8%B0%83%E6%9F%A5%E8%A1%A8.pdf
+[2014-03-26 10:03:14.060] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 10:03:15.403] [ERROR] console - Error: Forbidden
+    at SendStream.error (E:\My Project\TPHome\node_modules\express\node_modules\send\lib\send.js:145:16)
+    at SendStream.pipe (E:\My Project\TPHome\node_modules\express\node_modules\send\lib\send.js:307:39)
+    at ServerResponse.res.sendfile (E:\My Project\TPHome\node_modules\express\lib\response.js:345:8)
+    at ServerResponse.res.download (E:\My Project\TPHome\node_modules\express\lib\response.js:374:15)
+    at Object.Mvc.init [as handle] (E:\My Project\TPHome\public\lib\mvc.js:94:21)
+    at next (E:\My Project\TPHome\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at pass (E:\My Project\TPHome\node_modules\express\lib\router\index.js:110:24)
+    at Router._dispatch (E:\My Project\TPHome\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (E:\My Project\TPHome\node_modules\express\lib\router\index.js:33:10)
+    at next (E:\My Project\TPHome\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+[2014-03-26 10:03:15.404] [INFO] system - GET /download/ERP%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E8%B0%83%E6%9F%A5%E8%A1%A8.pdf
+[2014-03-26 10:08:19.966] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 10:08:22.960] [INFO] system - GET /download/ERP%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E8%B0%83%E6%9F%A5%E8%A1%A8.pdf
+[2014-03-26 10:09:22.980] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 10:09:32.049] [ERROR] console - Error: ENOENT, stat 'E:\My Project\TPHome\public\static\ERP使用情况调查表.pdf'
+[2014-03-26 10:09:32.051] [INFO] system - GET /download/ERP%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E8%B0%83%E6%9F%A5%E8%A1%A8.pdf
+[2014-03-26 10:10:05.753] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 10:10:07.377] [ERROR] console - Error: Forbidden
+    at SendStream.error (E:\My Project\TPHome\node_modules\express\node_modules\send\lib\send.js:145:16)
+    at SendStream.pipe (E:\My Project\TPHome\node_modules\express\node_modules\send\lib\send.js:307:39)
+    at ServerResponse.res.sendfile (E:\My Project\TPHome\node_modules\express\lib\response.js:345:8)
+    at ServerResponse.res.download (E:\My Project\TPHome\node_modules\express\lib\response.js:374:15)
+    at Object.Mvc.init [as handle] (E:\My Project\TPHome\public\lib\mvc.js:94:21)
+    at next (E:\My Project\TPHome\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+    at pass (E:\My Project\TPHome\node_modules\express\lib\router\index.js:110:24)
+    at Router._dispatch (E:\My Project\TPHome\node_modules\express\lib\router\index.js:173:5)
+    at Object.router (E:\My Project\TPHome\node_modules\express\lib\router\index.js:33:10)
+    at next (E:\My Project\TPHome\node_modules\express\node_modules\connect\lib\proto.js:193:15)
+[2014-03-26 10:10:07.379] [INFO] system - GET /download/ERP%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E8%B0%83%E6%9F%A5%E8%A1%A8.pdf
+[2014-03-26 10:10:15.549] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 10:10:19.903] [INFO] system - GET /download/ERP%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E8%B0%83%E6%9F%A5%E8%A1%A8.pdf
+[2014-03-26 10:11:05.381] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 10:11:08.929] [DEBUG] module - SQL: SELECT T1.*, T2.Id AS ItemId, T2.Tag, T2.Title FROM knowledge_class T1 LEFT JOIN knowledge T2     ON T1.Id = T2.ClassId ORDER BY id
+[2014-03-26 10:11:08.934] [INFO] system - GET /
+[2014-03-26 10:11:09.096] [INFO] system - GET /ejstest.ejs
+[2014-03-26 10:11:11.391] [INFO] system - GET /KnowledgeBase/ClassManager
+[2014-03-26 10:11:11.539] [DEBUG] module - SQL: SELECT * FROM knowledge_class
+[2014-03-26 10:11:11.542] [INFO] system - GET /fonts/glyphicons-halflings-regular.woff
+[2014-03-26 10:11:11.543] [INFO] system - GET /MvcAjax/GET?funcName=LoadData&mvcPath=%2FKnowledgeBase%2FClassManager&_=1395799871520
+[2014-03-26 10:11:11.651] [INFO] system - GET /KnowledgeBase/ClassGrid.ejs
+[2014-03-26 10:11:20.764] [INFO] system - GET /staticpage.html
+[2014-03-26 10:15:59.396] [INFO] system - Server running at http://127.0.0.1:3237/
+[2014-03-26 10:16:02.743] [INFO] system - GET /
+[2014-03-26 10:16:03.941] [DEBUG] module - SQL: select * from userinfo
+[2014-03-26 10:16:03.945] [ERROR] module - { [Error: ER_NO_SUCH_TABLE: Table 'tp_home.userinfo' doesn't exist]
+  code: 'ER_NO_SUCH_TABLE',
+  errno: 1146,
+  sqlState: '42S02',
+  index: 0 }
+Error: ER_NO_SUCH_TABLE: Table 'tp_home.userinfo' doesn't exist
+    at Query.Sequence._packetToError (E:\My Files\GitRepos\NodeMvc\node_modules\mysql\lib\protocol\sequences\Sequence.js:30:14)
+    at Query.ErrorPacket (E:\My Files\GitRepos\NodeMvc\node_modules\mysql\lib\protocol\sequences\Query.js:82:18)
+    at Protocol._parsePacket (E:\My Files\GitRepos\NodeMvc\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Files\GitRepos\NodeMvc\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Files\GitRepos\NodeMvc\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Files\GitRepos\NodeMvc\node_modules\mysql\lib\Connection.js:72:28)
+    at Socket.EventEmitter.emit (events.js:95:17)
+    at Socket.<anonymous> (_stream_readable.js:746:14)
+    at Socket.EventEmitter.emit (events.js:92:17)
+    at emitReadable_ (_stream_readable.js:408:10)
+    --------------------
+    at Protocol._enqueue (E:\My Files\GitRepos\NodeMvc\node_modules\mysql\lib\protocol\Protocol.js:110:48)
+    at PoolConnection.Connection.query (E:\My Files\GitRepos\NodeMvc\node_modules\mysql\lib\Connection.js:165:25)
+    at ConnectionPool.query (E:\My Files\GitRepos\NodeMvc\public\lib\conn_pool.js:23:36)
+    at Pool.getConnection (E:\My Files\GitRepos\NodeMvc\node_modules\mysql\lib\Pool.js:53:14)
+    at Handshake.Sequence.end (E:\My Files\GitRepos\NodeMvc\node_modules\mysql\lib\protocol\sequences\Sequence.js:78:24)
+    at Handshake.Sequence.OkPacket (E:\My Files\GitRepos\NodeMvc\node_modules\mysql\lib\protocol\sequences\Sequence.js:87:8)
+    at Protocol._parsePacket (E:\My Files\GitRepos\NodeMvc\node_modules\mysql\lib\protocol\Protocol.js:202:24)
+    at Parser.write (E:\My Files\GitRepos\NodeMvc\node_modules\mysql\lib\protocol\Parser.js:62:12)
+    at Protocol.write (E:\My Files\GitRepos\NodeMvc\node_modules\mysql\lib\protocol\Protocol.js:37:16)
+    at Socket.Connection.connect (E:\My Files\GitRepos\NodeMvc\node_modules\mysql\lib\Connection.js:72:28)

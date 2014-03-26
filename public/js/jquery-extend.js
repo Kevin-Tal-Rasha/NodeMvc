@@ -24,6 +24,25 @@ if (!Array.prototype.indexOf) {
         return -1;
     };
 }
+if (!Array.prototype.filter) {
+    Array.prototype.filter = function (fun /*, thisp*/) {
+        var len = this.length;
+        if (typeof fun != "function")
+            throw new TypeError();
+
+        var res = new Array();
+        var thisp = arguments[1];
+        for (var i = 0; i < len; i++) {
+            if (i in this) {
+                var val = this[i]; // in case fun mutates this
+                if (fun.call(thisp, val, i, this))
+                    res.push(val);
+            }
+        }
+
+        return res;
+    };
+}
 
 function getReturnMsg(msg) {
     msg = msg.replace("#success#", "");
@@ -623,6 +642,23 @@ jQuery.fn.extend({
             },
             errMsg: "数据加载失败！"
         });
+    },
+    render: function (ejs_template, data) {
+        if (!$(this).attr("id"))
+            $(this).attr("id", $.getGUID());
+
+        var ejs_t;
+        if (typeof (ejs_template) == "string")
+            ejs_t = { url: ejs_template };
+        else {
+            if (!ejs_template.attr("id"))
+                ejs_template.attr("id", $.getGUID());
+            ejs_template.hide();
+            ejs_t = { element: ejs_template.attr("id") };
+        }
+
+        if (ejs_t)
+            new EJS(ejs_t).update($(this).attr("id"), data);
     }
 });
 function control_change(id, childValue, childCallback) {

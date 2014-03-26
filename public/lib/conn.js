@@ -30,18 +30,34 @@ Connection.prototype.disconnect = function () {
     });
 }
 
-Connection.prototype.query = function (sql, callback) {
+Connection.prototype.query = function (sql, param, callback) {
+    if (!callback) {
+        callback = param;
+        param = undefined;
+    }
+
     this.connect();
 
-    app.logger.debug("SQL: " + sql);
-    _conn.query(sql, function (err, rows, fields) {
+    var query = _conn.query(sql, param, function (err, rows, fields) {
         if (err)
             app.logger.error(err);
         else
             if (callback) callback(rows, fields);
     });
+    app.logger.debug("SQL: " + query.sql);
 
     this.disconnect();
+}
+
+Connection.prototype.lastInsertId = function (table_name, id_field_name, callback) {
+    if (!callback) {
+        callback = id_field_name;
+        id_field_name = undefined;
+    }
+
+    this.query("SELECT MAX(?) FROM ?", [table_name, id_field_name || "Id"], function (id) {
+        callback(id);
+    });
 }
 
 module.exports = Connection;

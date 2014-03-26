@@ -1,14 +1,14 @@
 ﻿var server = require("./public/lib/server.js");
 server.start({
     port: 3237,
-    title: "My Node.Js Express Mvc Demo",
+    title: "TSDN - 东忠最具权威技术网站",
     startPage: "index",
     ajaxTimeout: 30, //seconds
     db: {
         host: "localhost",
         user: "root",
         password: "root",
-        database: "nodedata",
+        database: "tp_home",
         port: 3306
     },
     logger: {
